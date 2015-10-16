@@ -54,13 +54,9 @@
       <file name="/Dummy.txt" timestamp="1444979050321">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyAPIService.java" timestamp="1445005705393">
+      <file name="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyAPIService.java" timestamp="1445007971874">
         <mark key="'" line="50" column="32" />
         <mark key="[" line="132" column="63" />
-      </file>
-      <file name="$USER_HOME$/work/playcart/app/services/smartly/client/SmartlyAPIClient.java" timestamp="1444992289544">
-        <mark key="'" line="50" column="11" />
-        <mark key="[" line="50" column="4" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/controllers/admin/global/billing/BillingSmartlyReport.java" timestamp="1444999007601">
         <mark key="'" line="53" column="13" />
