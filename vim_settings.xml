@@ -21,15 +21,21 @@
       <file name="$USER_HOME$/work/playcart/app/models/ads/facebook/SmartlyAccount.java" timestamp="1444993299876">
         <mark key="'" line="220" column="15" />
       </file>
+      <file name="$USER_HOME$/work/playcart/test/services/smartly/DefaultSmartlyAPIServiceTest.java" timestamp="1444996871018">
+        <mark key="[" line="130" column="58" />
+        <mark key="]" line="130" column="64" />
+        <mark key="^" line="130" column="64" />
+        <mark key="." line="130" column="64" />
+      </file>
       <file name="$USER_HOME$/work/playcart/app/services/smartly/client/models/MissyouCampaign.java" timestamp="1444992081519">
         <mark key="[" line="19" column="14" />
         <mark key="]" line="19" column="14" />
         <mark key="." line="19" column="14" />
       </file>
-      <file name="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyAPIService.java" timestamp="1444992329458">
-        <mark key="[" line="129" column="29" />
-        <mark key="]" line="129" column="29" />
-        <mark key="." line="129" column="29" />
+      <file name="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyAPIService.java" timestamp="1444996842659">
+        <mark key="[" line="289" column="109" />
+        <mark key="]" line="289" column="109" />
+        <mark key="." line="289" column="109" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/controllers/cron/CreateStatsController.java" timestamp="1444834940234">
         <mark key="[" line="13" column="0" />
@@ -66,6 +72,12 @@
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/playcart/test/services/smartly/client/SmartlyAPIClientTest.java" timestamp="1444996817319">
+        <mark key="[" line="28" column="0" />
+        <mark key="]" line="28" column="0" />
+        <mark key="^" line="27" column="113" />
+        <mark key="." line="28" column="0" />
       </file>
       <file name="/fragment.java" timestamp="1444995450888">
         <mark key="[" line="0" column="0" />
@@ -184,44 +196,44 @@
       <jump line="214" column="15" filename="$USER_HOME$/work/playcart/app/models/ads/facebook/SmartlyAccount.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSB0eXBlIFRoZSB0eXBlIG9mIGNhbXBhaWduIHRoZXNlIHByb2R1Y3RzIGFyZSBhZHZlcnRpc2VkIGluCg==</text>
+      <register name="&quot;" type="4">
+        <text>API_TOKEaccN</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>API_TOKEaccN</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaW5kQnlNZXJjaGFudFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwYXltZW50U2VydmljZSA9IG1vY2soQmlsbGluZ1BheW1lbnRTZXJ2aWNlLmNsYXNzKTsK</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgU21hcnRseUFjY291bnQgYWNjb3VudDsKCiAgICAvKioKICAgICAqIEJlZm9yZSBtZXRob2Qgb2YgdGhlIHVuaXQtdGVzdCB0aGF0IGluaXRpYWxpemVzIHRoZSB0ZXN0cyBhbmQgb3ZlcnJpZGVzIHRoZSBlbmRwb2ludCBVUkwKICAgICAqLwogICAgQEJlZm9yZQogICAgcHVibGljIHZvaWQgc2V0dXBUZXN0KCkgewo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAqIEBwYXJhbSB0eXBlIFRoZSB0eXBlIG9mIGNhbXBhaWduIHRoZXNlIHByb2R1Y3RzIGFyZSBhZHZlcnRpc2VkIGluCg==</text>
+      <register name="1" type="4">
+        <text>API_TOKEaccN</text>
       </register>
       <register name="2" type="4">
-        <text>t</text>
+        <text>accountId</text>
       </register>
       <register name="3" type="4">
-        <text>a</text>
+        <text>.</text>
       </register>
-      <register name="4" type="4">
-        <text>t</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBTbWFydGx5QVBJQ2xpZW50IGNsaWVudCA9IG5ldyBTbWFydGx5QVBJQ2xpZW50KCkK</text>
       </register>
-      <register name="5" type="4">
-        <text>S</text>
+      <register name="5" type="2">
+        <text encoding="base64">LyoqCiAqIENyZWF0ZWQgYnkgaGtyb2dlciBvbiAxNi8xMC8xNS4KICovCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>s</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAqIEBwYXJhbSB0eXBlIFRoZSB0eXBlIG9mIGNhbXBhaWduIHRoZXNlIHByb2R1Y3RzIGFyZSBhZHZlcnRpc2VkIGluCg==</text>
       </register>
       <register name="7" type="4">
-        <text>d</text>
+        <text>t</text>
       </register>
       <register name="8" type="4">
-        <text>A</text>
+        <text>a</text>
       </register>
       <register name="9" type="4">
-        <text>mock</text>
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
