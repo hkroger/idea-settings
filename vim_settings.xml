@@ -8,11 +8,16 @@
         <mark key="]" line="60" column="37" />
         <mark key="." line="60" column="37" />
       </file>
-      <file name="$USER_HOME$/work/playcart/app/services/smartly/SmartlyAPIService.java" timestamp="1445002074794">
-        <mark key="[" line="133" column="0" />
-        <mark key="]" line="133" column="0" />
-        <mark key="^" line="140" column="50" />
-        <mark key="." line="133" column="0" />
+      <file name="$USER_HOME$/work/playcart/app/services/smartly/exceptions/PauseCampaignFailedException.java" timestamp="1445245018181">
+        <mark key="[" line="11" column="0" />
+        <mark key="]" line="11" column="0" />
+        <mark key="." line="11" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/playcart/app/services/smartly/SmartlyAPIService.java" timestamp="1445244089031">
+        <mark key="[" line="141" column="95" />
+        <mark key="]" line="141" column="107" />
+        <mark key="^" line="141" column="107" />
+        <mark key="." line="141" column="107" />
       </file>
       <file name="$USER_HOME$/work/playcart/test/services/smartly/DefaultSmartlyAPIServiceTest.java" timestamp="1444996871018" />
       <file name="$USER_HOME$/work/playcart/app/services/smartly/client/models/MissyouCampaign.java" timestamp="1444992081519">
@@ -20,25 +25,43 @@
         <mark key="]" line="19" column="14" />
         <mark key="." line="19" column="14" />
       </file>
-      <file name="$USER_HOME$/work/playcart/conf/messages" timestamp="1445236421645">
-        <mark key="[" line="724" column="0" />
-        <mark key="]" line="724" column="75" />
-        <mark key="." line="724" column="0" />
+      <file name="$USER_HOME$/work/playcart/app/services/smartly/exceptions/CloseAccountPostProcessFailedException.java" timestamp="1445243801723">
+        <mark key="[" line="6" column="18" />
+        <mark key="]" line="7" column="3" />
+        <mark key="^" line="7" column="3" />
+        <mark key="." line="7" column="3" />
+      </file>
+      <file name="$USER_HOME$/work/playcart/conf/messages" timestamp="1445244434195">
+        <mark key="[" line="724" column="166" />
+        <mark key="]" line="724" column="166" />
+        <mark key="." line="724" column="166" />
+        <mark key="^" line="724" column="165" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/controllers/cron/CreateStatsController.java" timestamp="1444834940234">
         <mark key="[" line="13" column="0" />
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/work/playcart/app/controllers/admin/merchant/SmartlyAccounts.java" timestamp="1445237667685">
-        <mark key="[" line="108" column="0" />
-        <mark key="]" line="108" column="0" />
-        <mark key="." line="108" column="0" />
-        <mark key="^" line="106" column="70" />
+      <file name="$USER_HOME$/work/playcart/test/admin/global/MerchantsFunctionalTest.java" timestamp="1445245846352" />
+      <file name="$USER_HOME$/work/playcart/app/controllers/admin/merchant/SmartlyAccounts.java" timestamp="1445246097505">
+        <mark key="[" line="110" column="172" />
+        <mark key="]" line="110" column="172" />
+        <mark key="^" line="110" column="189" />
+        <mark key="." line="110" column="172" />
+      </file>
+      <file name="$USER_HOME$/work/playcart/lib/commons-lang3-3.2.jar!/org/apache/commons/lang3/exception/ContextedException.class" timestamp="1445243781665">
+        <mark key="[" line="26" column="0" />
+        <mark key="]" line="27" column="20" />
+      </file>
+      <file name="$USER_HOME$/work/playcart/app/services/billing/BillingConstants.java" timestamp="1445245949989">
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="14" />
       </file>
       <file name="$USER_HOME$/work/playcart/conf/routes" timestamp="1445001258965">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/playcart/app/services/smartly/client/exceptions/SmartlyException.java" timestamp="1445241621185" />
+      <file name="/Library/Java/JavaVirtualMachines/jdk1.7.0_79.jdk/Contents/Home/src.zip!/java/lang/Exception.java" timestamp="1445244743797" />
       <file name="$USER_HOME$/work/playcart/app/jobs/productcrawler/ProductCrawlerJob.java" timestamp="1444992698334">
         <mark key="'" line="586" column="15" />
       </file>
@@ -54,13 +77,23 @@
         <mark key="." line="230" column="21" />
         <mark key="^" line="230" column="21" />
       </file>
+      <file name="$USER_HOME$/work/playcart/test/api/AccountsFunctionalTest.java" timestamp="1445245656896" />
+      <file name="$USER_HOME$/work/playcart/app/services/smartly/exceptions/SmartlyServiceException.java" timestamp="1445245127838">
+        <mark key="[" line="14" column="14" />
+        <mark key="]" line="14" column="14" />
+        <mark key="." line="14" column="14" />
+      </file>
+      <file name="$USER_HOME$/work/playcart/app/services/smartly/exceptions/PauseCampaignsFailedException.java" timestamp="1445245168338" />
       <file name="$USER_HOME$/work/playcart/app/utils/CurrentMerchantContext.java" timestamp="1444995389595" />
       <file name="/Dummy.txt" timestamp="1444979050321">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyAPIService.java" timestamp="1445008116227">
-        <mark key="'" line="50" column="32" />
-        <mark key="[" line="132" column="63" />
+      <file name="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyAPIService.java" timestamp="1445245954010">
+        <mark key="'" line="149" column="8" />
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="14" />
+        <mark key="." line="50" column="0" />
+        <mark key="^" line="53" column="17" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/controllers/admin/merchant/SmartlyAdverts.java" timestamp="1445239841927">
         <mark key="'" line="111" column="32" />
@@ -95,13 +128,14 @@
         <mark key="^" line="27" column="113" />
         <mark key="." line="10" column="13" />
       </file>
-      <file name="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" timestamp="1445005492493">
-        <mark key="'" line="86" column="0" />
-        <mark key="[" line="176" column="0" />
-        <mark key="]" line="176" column="0" />
-        <mark key="." line="176" column="0" />
+      <file name="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" timestamp="1445244243502">
+        <mark key="'" line="84" column="0" />
+        <mark key="[" line="171" column="50" />
+        <mark key="]" line="171" column="49" />
+        <mark key="." line="171" column="49" />
+        <mark key="^" line="171" column="49" />
       </file>
-      <file name="/fragment.java" timestamp="1444999180254">
+      <file name="/fragment.java" timestamp="1445243627728">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/controllers/cron/CassandraRecPairsDeprecator.java" timestamp="1444834470103">
@@ -116,9 +150,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="249" column="4" filename="$USER_HOME$/work/playcart/app/services/smartly/SmartlyAPIClient.java" />
-      <jump line="214" column="23" filename="$USER_HOME$/work/playcart/app/services/smartly/SmartlyAPIClient.java" />
-      <jump line="52" column="3" filename="$USER_HOME$/work/playcart/app/services/smartly/SmartlyAPIClient.java" />
       <jump line="246" column="0" filename="$USER_HOME$/work/playcart/app/services/smartly/SmartlyAPIClient.java" />
       <jump line="64" column="0" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyAPIService.java" />
       <jump line="64" column="3" filename="$USER_HOME$/work/playcart/app/services/smartly/SmartlyAPIClient.java" />
@@ -136,7 +167,6 @@
       <jump line="202" column="8" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyAPIService.java" />
       <jump line="108" column="63" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyAPIService.java" />
       <jump line="136" column="67" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyAPIService.java" />
-      <jump line="148" column="74" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyAPIService.java" />
       <jump line="195" column="22" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyAPIService.java" />
       <jump line="81" column="19" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyAPIService.java" />
       <jump line="90" column="13" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyAPIService.java" />
@@ -158,7 +188,6 @@
       <jump line="84" column="13" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyAPIService.java" />
       <jump line="74" column="19" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyAPIService.java" />
       <jump line="73" column="31" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyAPIService.java" />
-      <jump line="146" column="31" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyAPIService.java" />
       <jump line="129" column="18" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyAPIService.java" />
       <jump line="134" column="31" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyAPIService.java" />
       <jump line="141" column="18" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyAPIService.java" />
@@ -207,7 +236,6 @@
       <jump line="96" column="16" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyAPIService.java" />
       <jump line="165" column="0" filename="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" />
       <jump line="126" column="14" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyAPIService.java" />
-      <jump line="50" column="32" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyAPIService.java" />
       <jump line="86" column="0" filename="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" />
       <jump line="62" column="12" filename="$USER_HOME$/work/playcart/app/services/api/TokenService.java" />
       <jump line="0" column="0" filename="$USER_HOME$/work/playcart/app/services/api/TokenService.java" />
@@ -216,55 +244,61 @@
       <jump line="651" column="32" filename="$USER_HOME$/work/playcart/app/controllers/admin/merchant/SmartlyAdverts.java" />
       <jump line="297" column="56" filename="$USER_HOME$/work/playcart/app/controllers/admin/merchant/SmartlyAdverts.java" />
       <jump line="111" column="32" filename="$USER_HOME$/work/playcart/app/controllers/admin/merchant/SmartlyAdverts.java" />
+      <jump line="146" column="34" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyAPIService.java" />
+      <jump line="154" column="12" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyAPIService.java" />
+      <jump line="149" column="74" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyAPIService.java" />
+      <jump line="105" column="0" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyAPIService.java" />
+      <jump line="50" column="13" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyAPIService.java" />
+      <jump line="148" column="8" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyAPIService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYW5hZ2UobWVyY2hhbnQpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>LocalizedMessage</text>
       </register>
       <register name="-" type="4">
-        <text>staging</text>
+        <text>LocalizedMessage</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxTTUFSVExZX1NFQ1JFVFw+</text>
+        <text encoding="base64">XDxEZWZhdWx0U21hcnRseUFQSVNlcnZpY2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVuZGVyKCJhZG1pbi9tZXJjaGFudC9TbWFydGx5QWNjb3VudHMvbWFuYWdlLmh0bWwiLCBvYmplY3QpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2dnZXIuZXJyb3IoZSwgIltGQiBDb3NpQ25Jcm1CXSBDbG9zaW5nIFNtYXJ0bHkgYWNjb3VudCAlcyB3YXMgY2xvc2VkIGJ1dCB0aGVyZSB3YXMgYSBwcm9ibGVtIHdpdGggcG9zdC1wcm9jZXNzaW5nIHN0ZXBzLiIsIG9iamVjdC5nZXRBY2NvdW50SWQoKSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYW5hZ2UobWVyY2hhbnQpOwo=</text>
+      <register name="1" type="4">
+        <text>LocalizedMessage</text>
       </register>
       <register name="2" type="4">
-        <text>staging</text>
+        <text encoding="base64">c3RhdGljIA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">YWRtaW4ubWVyY2hhbnRzLnNtYXJ0bHkuYWNjb3VudC5lcnJvci5jbG9zZUZhaWxlZD1DbG9zaW5nIG9mIGFjY291bnQgZmFpbGVkCg==</text>
+      <register name="3" type="4">
+        <text>super(sb.toString());</text>
       </register>
-      <register name="4" type="4">
-        <text>.</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBzdXAK</text>
       </register>
       <register name="5" type="4">
-        <text>error</text>
+        <text>cause</text>
       </register>
       <register name="6" type="4">
-        <text>.</text>
+        <text>cause</text>
       </register>
       <register name="7" type="4">
-        <text>account</text>
+        <text encoding="base64">U3RyaW5nIA==</text>
       </register>
-      <register name="8" type="4">
-        <text>h</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlcigiIik7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text>configurationSaved</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlcihzYi50b1N0cmluZygpKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxTTUFSVExZX1NFQ1JFVFw+</last-search>
+      <last-search encoding="base64">XDxEZWZhdWx0U21hcnRseUFQSVNlcnZpY2VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxTTUFSVExZX1NFQ1JFVFw+</last-pattern>
+      <last-pattern encoding="base64">XDxEZWZhdWx0U21hcnRseUFQSVNlcnZpY2VcPg==</last-pattern>
       <last-replace>apiUrl</last-replace>
       <last-substitute>API_URL</last-substitute>
       <last-dir>1</last-dir>
@@ -272,7 +306,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxBVFRSSUJVVElPTlw+</entry>
         <entry encoding="base64">XDxGSUxURVJTX0JBU0VcPg==</entry>
         <entry encoding="base64">XDxnZXRGaWx0ZXJzXD4=</entry>
         <entry encoding="base64">XDxTVEFOREFSRF9FUlJPUlw+</entry>
@@ -292,6 +325,7 @@
         <entry>tokenService</entry>
         <entry encoding="base64">XDx0b2tlblNlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxTTUFSVExZX1NFQ1JFVFw+</entry>
+        <entry encoding="base64">XDxEZWZhdWx0U21hcnRseUFQSVNlcnZpY2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
