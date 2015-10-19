@@ -30,11 +30,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/work/playcart/app/controllers/admin/merchant/SmartlyAccounts.java" timestamp="1445236394938">
-        <mark key="[" line="106" column="57" />
-        <mark key="]" line="106" column="57" />
-        <mark key="." line="106" column="57" />
-        <mark key="^" line="109" column="8" />
+      <file name="$USER_HOME$/work/playcart/app/controllers/admin/merchant/SmartlyAccounts.java" timestamp="1445237667685">
+        <mark key="[" line="108" column="0" />
+        <mark key="]" line="108" column="0" />
+        <mark key="." line="108" column="0" />
+        <mark key="^" line="106" column="70" />
       </file>
       <file name="$USER_HOME$/work/playcart/conf/routes" timestamp="1445001258965">
         <mark key="'" line="0" column="0" />
@@ -214,8 +214,8 @@
       <jump line="220" column="11" filename="$USER_HOME$/work/playcart/app/services/api/TokenService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>staging</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYW5hZ2UobWVyY2hhbnQpOwo=</text>
       </register>
       <register name="-" type="4">
         <text>staging</text>
@@ -224,34 +224,34 @@
         <text encoding="base64">XDx0b2tlblNlcnZpY2VcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YWRtaW4ubWVyY2hhbnRzLnNtYXJ0bHkuYWNjb3VudC5lcnJvci5jbG9zZUZhaWxlZD1DbG9zaW5nIG9mIGFjY291bnQgZmFpbGVkCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgcmVuZGVyKCJhZG1pbi9tZXJjaGFudC9TbWFydGx5QWNjb3VudHMvbWFuYWdlLmh0bWwiLCBvYmplY3QpOwo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtYW5hZ2UobWVyY2hhbnQpOwo=</text>
+      </register>
+      <register name="2" type="4">
         <text>staging</text>
       </register>
-      <register name="2" type="2">
+      <register name="3" type="2">
         <text encoding="base64">YWRtaW4ubWVyY2hhbnRzLnNtYXJ0bHkuYWNjb3VudC5lcnJvci5jbG9zZUZhaWxlZD1DbG9zaW5nIG9mIGFjY291bnQgZmFpbGVkCg==</text>
       </register>
-      <register name="3" type="4">
-        <text>.</text>
-      </register>
       <register name="4" type="4">
-        <text>error</text>
+        <text>.</text>
       </register>
       <register name="5" type="4">
-        <text>.</text>
+        <text>error</text>
       </register>
       <register name="6" type="4">
-        <text>account</text>
+        <text>.</text>
       </register>
       <register name="7" type="4">
-        <text>h</text>
+        <text>account</text>
       </register>
       <register name="8" type="4">
-        <text>configurationSaved</text>
+        <text>h</text>
       </register>
       <register name="9" type="4">
-        <text>Successfully saved the Smartly account configuration</text>
+        <text>configurationSaved</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
