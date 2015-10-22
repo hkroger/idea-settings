@@ -115,6 +115,13 @@
         <mark key="." line="29" column="32" />
         <mark key="^" line="29" column="32" />
       </file>
+      <file name="$USER_HOME$/work/playcart/conf/application.conf" timestamp="1445498015235">
+        <mark key="'" line="6" column="0" />
+        <mark key="[" line="827" column="29" />
+        <mark key="]" line="827" column="29" />
+        <mark key="^" line="827" column="31" />
+        <mark key="." line="827" column="29" />
+      </file>
       <file name="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" timestamp="1445422031333">
         <mark key="'" line="27" column="27" />
       </file>
@@ -126,7 +133,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="168" column="26" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyAPIService.java" />
       <jump line="183" column="26" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyAPIService.java" />
       <jump line="42" column="13" filename="$USER_HOME$/work/playcart/test/billing/BillingConfigurationTest.java" />
       <jump line="50" column="8" filename="$USER_HOME$/work/playcart/test/billing/BillingConfigurationTest.java" />
@@ -226,55 +232,56 @@
       <jump line="85" column="15" filename="$USER_HOME$/work/playcart/app/controllers/cron/CreateProductScoresController.java" />
       <jump line="28" column="35" filename="$USER_HOME$/work/playcart/app/services/DAOModule.java" />
       <jump line="161" column="29" filename="$USER_HOME$/work/playcart/app/cassandra/aggregatedVisit/AggregatedVisitDAO.java" />
+      <jump line="6" column="0" filename="$USER_HOME$/work/playcart/conf/application.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      <register name="&quot;" type="4">
+        <text>dev</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>dev</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxBbGxSb3dzUmVhZGVyXD4=</text>
+        <text>smartly</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICogQGF1dGhvciBsZWFuZHJvCg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      <register name="1" type="4">
+        <text>dev</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">PT09PT09PQogICAgdm9pZCBjbG9zZUFjY291bnQoU21hcnRseUFjY291bnQgYWNjb3VudCkKICAgICAgICAgICAgdGhyb3dzIFNtYXJ0bHlFeGNlcHRpb24sIEpzb25QYXJzZUV4Y2VwdGlvbiwgSnNvbk1hcHBpbmdFeGNlcHRpb24sIElPRXhjZXB0aW9uOwo+Pj4+Pj4+IG1hc3Rlcgo=</text>
+      <register name="2" type="4">
+        <text>staging</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">PT09PT09PQogICAgdm9pZCBwYXVzZUNhbXBhaWducyhTbWFydGx5QWNjb3VudCBhY2NvdW50KQogICAgICAgICAgICB0aHJvd3MgSU9FeGNlcHRpb24sIEpTT05FeGNlcHRpb247Cj4+Pj4+Pj4gbWFzdGVyCg==</text>
+      <register name="3" type="4">
+        <text>%</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
       </register>
       <register name="5" type="2">
+        <text encoding="base64">PT09PT09PQogICAgdm9pZCBjbG9zZUFjY291bnQoU21hcnRseUFjY291bnQgYWNjb3VudCkKICAgICAgICAgICAgdGhyb3dzIFNtYXJ0bHlFeGNlcHRpb24sIEpzb25QYXJzZUV4Y2VwdGlvbiwgSnNvbk1hcHBpbmdFeGNlcHRpb24sIElPRXhjZXB0aW9uOwo+Pj4+Pj4+IG1hc3Rlcgo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">PT09PT09PQogICAgdm9pZCBwYXVzZUNhbXBhaWducyhTbWFydGx5QWNjb3VudCBhY2NvdW50KQogICAgICAgICAgICB0aHJvd3MgSU9FeGNlcHRpb24sIEpTT05FeGNlcHRpb247Cj4+Pj4+Pj4gbWFzdGVyCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">aW1wb3J0IG9yZy5hcGFjaGUuY2Fzc2FuZHJhLnRocmlmdC5DYXNzYW5kcmE7Cg==</text>
       </register>
-      <register name="6" type="4">
+      <register name="9" type="4">
         <text>l</text>
-      </register>
-      <register name="7" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
-      </register>
-      <register name="8" type="4">
-        <text encoding="base64">cHVibGljIA==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text encoding="base64">JzwsJz5zLyQvLC9n</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxBbGxSb3dzUmVhZGVyXD4=</last-search>
+      <last-search>smartly</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxBbGxSb3dzUmVhZGVyXD4=</last-pattern>
+      <last-pattern>smartly</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -282,7 +289,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxEZWZhdWx0U21hcnRseUFQSVNlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxoYW5kbGVJbnRlcm5hbFNlcnZlckVycm9yXD4=</entry>
         <entry>closeAccount</entry>
         <entry encoding="base64">XDx0b2tlblNlcnZpY2VcPg==</entry>
@@ -302,6 +308,7 @@
         <entry encoding="base64">XDxjcm9uSm9iSWRcPg==</entry>
         <entry encoding="base64">XDxDYXNzYW5kcmFcPg==</entry>
         <entry encoding="base64">XDxBbGxSb3dzUmVhZGVyXD4=</entry>
+        <entry>smartly</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
