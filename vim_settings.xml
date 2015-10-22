@@ -9,10 +9,10 @@
         <mark key="^" line="140" column="107" />
         <mark key="." line="140" column="0" />
       </file>
-      <file name="$USER_HOME$/work/playcart/app/views/admin/merchant/SmartlyAdverts/blank.html" timestamp="1445503253128">
+      <file name="$USER_HOME$/work/playcart/app/views/admin/merchant/SmartlyAdverts/blank.html" timestamp="1445508683177">
         <mark key="'" line="193" column="33" />
-        <mark key="[" line="192" column="0" />
-        <mark key="]" line="192" column="0" />
+        <mark key="[" line="189" column="0" />
+        <mark key="]" line="197" column="19" />
         <mark key="^" line="193" column="162" />
         <mark key="." line="192" column="0" />
       </file>
@@ -38,12 +38,11 @@
         <mark key="^" line="42" column="22" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/work/playcart/conf/messages" timestamp="1445501924435">
+      <file name="$USER_HOME$/work/playcart/conf/messages" timestamp="1445508597409">
         <mark key="'" line="694" column="32" />
-        <mark key="[" line="900" column="44" />
-        <mark key="]" line="900" column="44" />
-        <mark key="." line="900" column="44" />
-        <mark key="^" line="900" column="44" />
+        <mark key="[" line="881" column="0" />
+        <mark key="]" line="881" column="0" />
+        <mark key="." line="881" column="0" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/views/tags/ui/wizard/blockPanel-fb.html" timestamp="1445266736098">
         <mark key="'" line="17" column="47" />
@@ -67,11 +66,11 @@
         <mark key="^" line="14" column="64" />
         <mark key="." line="14" column="64" />
       </file>
-      <file name="$USER_HOME$/work/playcart/app/views/admin/merchant/SmartlyAdverts/index.html" timestamp="1445352880528">
-        <mark key="[" line="20" column="136" />
-        <mark key="]" line="20" column="136" />
-        <mark key="^" line="20" column="187" />
-        <mark key="." line="20" column="136" />
+      <file name="$USER_HOME$/work/playcart/app/views/admin/merchant/SmartlyAdverts/index.html" timestamp="1445508152341">
+        <mark key="[" line="96" column="63" />
+        <mark key="]" line="96" column="64" />
+        <mark key="^" line="96" column="65" />
+        <mark key="." line="96" column="64" />
       </file>
       <file name="$USER_HOME$/work/playcart/conf/routes" timestamp="1445422050874">
         <mark key="'" line="0" column="0" />
@@ -79,12 +78,18 @@
       <file name="$USER_HOME$/work/playcart/app/jobs/productcrawler/ProductCrawlerJob.java" timestamp="1444992698334">
         <mark key="'" line="586" column="15" />
       </file>
-      <file name="$USER_HOME$/work/playcart/app/services/smartly/client/models/Campaign.java" timestamp="1445506811024">
-        <mark key="'" line="1292" column="39" />
-        <mark key="[" line="476" column="0" />
-        <mark key="]" line="476" column="0" />
-        <mark key="^" line="1317" column="38" />
-        <mark key="." line="476" column="0" />
+      <file name="$USER_HOME$/work/playcart/app/services/smartly/client/models/Campaign.java" timestamp="1445508053157">
+        <mark key="'" line="260" column="15" />
+        <mark key="[" line="270" column="15" />
+        <mark key="]" line="270" column="17" />
+        <mark key="^" line="270" column="17" />
+        <mark key="." line="270" column="17" />
+      </file>
+      <file name="$USER_HOME$/work/playcart/app/views/admin/merchant/SmartlyAdverts/show.html" timestamp="1445508687835">
+        <mark key="'" line="171" column="17" />
+        <mark key="[" line="185" column="0" />
+        <mark key="]" line="193" column="14" />
+        <mark key="." line="185" column="0" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/views/admin/merchant/SmartlyAdverts/connect.html" timestamp="1445267370588">
         <mark key="[" line="38" column="227" />
@@ -162,13 +167,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="0" filename="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" />
-      <jump line="62" column="12" filename="$USER_HOME$/work/playcart/app/services/api/TokenService.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/playcart/app/services/api/TokenService.java" />
-      <jump line="226" column="0" filename="$USER_HOME$/work/playcart/app/services/api/TokenService.java" />
-      <jump line="220" column="11" filename="$USER_HOME$/work/playcart/app/services/api/TokenService.java" />
-      <jump line="651" column="32" filename="$USER_HOME$/work/playcart/app/controllers/admin/merchant/SmartlyAdverts.java" />
-      <jump line="297" column="56" filename="$USER_HOME$/work/playcart/app/controllers/admin/merchant/SmartlyAdverts.java" />
       <jump line="111" column="32" filename="$USER_HOME$/work/playcart/app/controllers/admin/merchant/SmartlyAdverts.java" />
       <jump line="146" column="34" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyAPIService.java" />
       <jump line="154" column="12" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyAPIService.java" />
@@ -262,55 +260,62 @@
       <jump line="193" column="33" filename="$USER_HOME$/work/playcart/app/views/admin/merchant/SmartlyAdverts/blank.html" />
       <jump line="1305" column="28" filename="$USER_HOME$/work/playcart/app/services/smartly/client/models/Campaign.java" />
       <jump line="1303" column="39" filename="$USER_HOME$/work/playcart/app/services/smartly/client/models/Campaign.java" />
+      <jump line="459" column="4" filename="$USER_HOME$/work/playcart/app/services/smartly/client/models/Campaign.java" />
+      <jump line="1256" column="13" filename="$USER_HOME$/work/playcart/app/services/smartly/client/models/Campaign.java" />
+      <jump line="609" column="21" filename="$USER_HOME$/work/playcart/app/services/smartly/client/models/Campaign.java" />
+      <jump line="254" column="47" filename="$USER_HOME$/work/playcart/app/services/smartly/client/models/Campaign.java" />
+      <jump line="259" column="15" filename="$USER_HOME$/work/playcart/app/services/smartly/client/models/Campaign.java" />
+      <jump line="116" column="0" filename="$USER_HOME$/work/playcart/app/views/admin/merchant/SmartlyAdverts/show.html" />
+      <jump line="171" column="17" filename="$USER_HOME$/work/playcart/app/views/admin/merchant/SmartlyAdverts/show.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJyb3ciPgogICAgICAgICAgPGRpdiBjbGFzcz0ic21hbGwtMTIgbWVkaXVtLTcgY29sdW1uIj4KICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJmb3JtLWxhYmVsIj4meydhZG1pbi5tZXJjaGFudHMuc21hcnRseS5jYW1wYWlnbi5vYmplY3Quc2V4J308L2xhYmVsPgogICAgICAgICAgICA8dWwgY2xhc3M9ImlubGluZS1saXN0Ij4KICAgICAgICAgICAgICA8bGk+I3tub3N0by5yYWRpbyBpZDonb2JqZWN0LnNleCcsIGxhYmVsOidhZG1pbi5tZXJjaGFudHMuc21hcnRseS5ib3RoR2VuZGVyJywgdmFsdWU6J0JPVEgnLCBuZ01vZGVsOickcGFyZW50LnNleCcgL308L2xpPgogICAgICAgICAgICAgIDxsaT4je25vc3RvLnJhZGlvIGlkOidvYmplY3Quc2V4JywgbGFiZWw6J2FkbWluLm1lcmNoYW50cy5zbWFydGx5Lm1hbGVHZW5kZXInLCB2YWx1ZTonTUFMRScsIG5nTW9kZWw6JyRwYXJlbnQuc2V4JyAvfTwvbGk+CiAgICAgICAgICAgICAgPGxpPiN7bm9zdG8ucmFkaW8gaWQ6J29iamVjdC5zZXgnLCBsYWJlbDonYWRtaW4ubWVyY2hhbnRzLnNtYXJ0bHkuZmVtYWxlR2VuZGVyJywgdmFsdWU6J0ZFTUFMRScsIG5nTW9kZWw6JyRwYXJlbnQuc2V4JyAvfTwvbGk+CiAgICAgICAgICAgIDwvdWw+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDxkaXYgY2xhc3M9InNtYWxsLTEyIG1lZGl1bS01IGNvbHVtbiByaWdodCI+CiAgICAgICAgICAgICN7bm9zdG8udjIuc3dpdGNoRmllbGQgaWQ6J29iamVjdC5tb2JpbGUnLCBsYWJlbDonYWRtaW4ubWVyY2hhbnRzLnNtYXJ0bHkuY2FtcGFpZ24ub2JqZWN0Lm1vYmlsZScsIHZhbHVlOm9iamVjdC5tb2JpbGUsIGRlZmF1bHRWYWx1ZTp0cnVlLCBvblRleHQ6J1llcycsIG9mZlRleHQ6J05vJyAvfQogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Qm9vbGVhbiA=</text>
-      </register>
-      <register name="/" type="4">
-        <text encoding="base64">XDxhdXRvQmlkXD4=</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvbmcgYmlkQW1vdW50ID0gMDsK</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogQWRkcyBhIG5ldyBDUEMgYmlkIHRvIHRoZSBhcnJheSBvZiBiaWRzCiAgICAgKiAKICAgICAqIEBwYXJhbSB2YWx1ZQogICAgICogICAgICAgICAgICBUaGUgdmFsdWUgb2YgdGhlIGJpZCBpbiBjZW50cwogICAgICovCiAgICBARGVwcmVjYXRlZAogICAgcHVibGljIHZvaWQgc2V0QmlkKExvbmcgdmFsdWUpIHsKICAgICAgICB0aGlzLmdldEJpZHMoKS5hZGQobmV3IEJpZCh2YWx1ZSkpOwo=</text>
-      </register>
-      <register name="4" type="4">
-        <text encoding="base64">Qm9vbGVhbiA=</text>
-      </register>
-      <register name="5" type="4">
-        <text encoding="base64">Qm9vbGVhbiA=</text>
-      </register>
-      <register name="6" type="4">
-        <text>FALSE</text>
-      </register>
-      <register name="7" type="4">
         <text>.</text>
       </register>
+      <register name="/" type="4">
+        <text>VISIBL</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJyb3ciPgogICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0ic21hbGwtMTIgbWVkaXVtLTYgY29sdW1ucyI+CiAgICAgICAgICAgICAgICAgIDxkaXYgY2xhc3M9InJvdyBjb2xsYXBzZSI+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0ic21hbGwtOSBjb2x1bW5zIj4KICAgICAgICAgICAgICAgICAgICAgICN7bm9zdG8udjIuc3dpdGNoRmllbGQgaWQ6J29iamVjdC5hdXRvQmlkJywgbGFiZWw6J2FkbWluLm1lcmNoYW50cy5zbWFydGx5LmNhbXBhaWduLm9iamVjdC5hdXRvQmlkJywgdmFsdWU6b2JqZWN0LmF1dG9CaWQsIGRlZmF1bHRWYWx1ZTpmYWxzZSwgb25UZXh0OidZZXMnLCBvZmZUZXh0OidObycgL30KICAgICAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8L2Rpdj4KICAgICAgICAgICAgICA8L2Rpdj4K</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICA8ZGl2IGNsYXNzPSJyb3ciPgogICAgICAgICAgPGRpdiBjbGFzcz0ic21hbGwtMTIgbWVkaXVtLTcgY29sdW1uIj4KICAgICAgICAgICAgPGxhYmVsIGNsYXNzPSJmb3JtLWxhYmVsIj4meydhZG1pbi5tZXJjaGFudHMuc21hcnRseS5jYW1wYWlnbi5vYmplY3Quc2V4J308L2xhYmVsPgogICAgICAgICAgICA8dWwgY2xhc3M9ImlubGluZS1saXN0Ij4KICAgICAgICAgICAgICA8bGk+I3tub3N0by5yYWRpbyBpZDonb2JqZWN0LnNleCcsIGxhYmVsOidhZG1pbi5tZXJjaGFudHMuc21hcnRseS5ib3RoR2VuZGVyJywgdmFsdWU6J0JPVEgnLCBuZ01vZGVsOickcGFyZW50LnNleCcgL308L2xpPgogICAgICAgICAgICAgIDxsaT4je25vc3RvLnJhZGlvIGlkOidvYmplY3Quc2V4JywgbGFiZWw6J2FkbWluLm1lcmNoYW50cy5zbWFydGx5Lm1hbGVHZW5kZXInLCB2YWx1ZTonTUFMRScsIG5nTW9kZWw6JyRwYXJlbnQuc2V4JyAvfTwvbGk+CiAgICAgICAgICAgICAgPGxpPiN7bm9zdG8ucmFkaW8gaWQ6J29iamVjdC5zZXgnLCBsYWJlbDonYWRtaW4ubWVyY2hhbnRzLnNtYXJ0bHkuZmVtYWxlR2VuZGVyJywgdmFsdWU6J0ZFTUFMRScsIG5nTW9kZWw6JyRwYXJlbnQuc2V4JyAvfTwvbGk+CiAgICAgICAgICAgIDwvdWw+CiAgICAgICAgICA8L2Rpdj4KICAgICAgICAgIDxkaXYgY2xhc3M9InNtYWxsLTEyIG1lZGl1bS01IGNvbHVtbiByaWdodCI+CiAgICAgICAgICAgICN7bm9zdG8udjIuc3dpdGNoRmllbGQgaWQ6J29iamVjdC5tb2JpbGUnLCBsYWJlbDonYWRtaW4ubWVyY2hhbnRzLnNtYXJ0bHkuY2FtcGFpZ24ub2JqZWN0Lm1vYmlsZScsIHZhbHVlOm9iamVjdC5tb2JpbGUsIGRlZmF1bHRWYWx1ZTp0cnVlLCBvblRleHQ6J1llcycsIG9mZlRleHQ6J05vJyAvfQogICAgICAgICAgPC9kaXY+CiAgICAgICAgPC9kaXY+Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgI3tpZiBhZG1pbn0KICAgICAgICA8cCBjbGFzcz0icGFuZWwtLXN1YmhlYWRpbmciPihWSVNJQkxFIEZPUiBBRE1JTiBPTkxZKTxCUj4meydhZG1pbi5tZXJjaGFudHMuc21hcnRseS5jYW1wYWlnbi5lZGl0LmJ1ZGdldC5kZXNjJ308L3A+CiAgICAgICN7L2lmfQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgI3tpZiBhZG1pbn0KICAgICAgICA8cCBjbGFzcz0icGFuZWwtLXN1YmhlYWRpbmciPihWSVNJQkxFIEZPUiBBRE1JTiBPTkxZKTxCUj4meydhZG1pbi5tZXJjaGFudHMuc21hcnRseS5jYW1wYWlnbi5lZGl0LnRlbXBsYXRlLmRlc2MnfTwvcD4KICAgICAgI3svaWZ9Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgI3tpZiBhZG1pbn0KICAgICAgICA8cCBjbGFzcz0icGFuZWwtLXN1YmhlYWRpbmciPihWSVNJQkxFIEZPUiBBRE1JTiBPTkxZKTxCUj4meydhZG1pbi5tZXJjaGFudHMuc21hcnRseS5jYW1wYWlnbi5lZGl0Lm92ZXJ2aWV3LmRlc2MnfTwvcD4KICAgICAgI3svaWZ9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">YWRtaW4ubWVyY2hhbnRzLnNtYXJ0bHkuY2FtcGFpZ24uZWRpdC5idWRnZXQuZGVzYz1Mb3JlbSBpcHN1bSBkb2xvciBzaXQgYW1ldCwgY29uc2VjdGV0dXIgYWRpcGlzaWNpbmcgZWxpdCwgc2VkIGRvIGVpdXNtb2QgdGVtcG9yIGluY2lkaWR1bnQgdXQgbGFib3JlIGV0IGRvbG9yZSBtYWduYSBhbGlxdWEuCg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">YWRtaW4ubWVyY2hhbnRzLnNtYXJ0bHkuY2FtcGFpZ24uZWRpdC50ZW1wbGF0ZS5kZXNjPUxvcmVtIGlwc3VtIGRvbG9yIHNpdCBhbWV0LCBjb25zZWN0ZXR1ciBhZGlwaXNpY2luZyBlbGl0LCBzZWQgZG8gZWl1c21vZCB0ZW1wb3IgaW5jaWRpZHVudCB1dCBsYWJvcmUgZXQgZG9sb3JlIG1hZ25hIGFsaXF1YS4K</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">YWRtaW4ubWVyY2hhbnRzLnNtYXJ0bHkuY2FtcGFpZ24uZWRpdC5vdmVydmlldy5kZXNjPUxvcmVtIGlwc3VtIGRvbG9yIHNpdCBhbWV0LCBjb25zZWN0ZXR1ciBhZGlwaXNpY2luZyBlbGl0LCBzZWQgZG8gZWl1c21vZCB0ZW1wb3IgaW5jaWRpZHVudCB1dCBsYWJvcmUgZXQgZG9sb3JlIG1hZ25hIGFsaXF1YS4K</text>
+      </register>
       <register name="8" type="4">
-        <text>Boolean</text>
+        <text>.</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">Qm9vbGVhbiA=</text>
+        <text>d</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhdXRvQmlkXD4=</last-search>
+      <last-search>VISIBL</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhdXRvQmlkXD4=</last-pattern>
+      <last-pattern>VISIBL</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -318,11 +323,6 @@
     </search>
     <history>
       <history-search>
-        <entry>UNKNOWN</entry>
-        <entry encoding="base64">XDxjcm9uSm9iSWRcPg==</entry>
-        <entry encoding="base64">XDxDYXNzYW5kcmFcPg==</entry>
-        <entry encoding="base64">XDxBbGxSb3dzUmVhZGVyXD4=</entry>
-        <entry>smartly</entry>
         <entry>Show on</entry>
         <entry>mobile</entry>
         <entry>bid</entry>
@@ -338,6 +338,11 @@
         <entry encoding="base64">XDxkaXNjb3VudFBvcHVwQ29kZVw+</entry>
         <entry encoding="base64">XDxzd2l0Y2hGaWVsZFw+</entry>
         <entry encoding="base64">XDxhdXRvQmlkXD4=</entry>
+        <entry>getBid</entry>
+        <entry>getBidValue</entry>
+        <entry encoding="base64">XDxnZXRCaWRWYWx1ZVw+</entry>
+        <entry encoding="base64">XDxjdXJyZW5jeVw+</entry>
+        <entry>VISIBL</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
