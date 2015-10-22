@@ -28,10 +28,11 @@
         <mark key="." line="38" column="36" />
         <mark key="^" line="38" column="36" />
       </file>
-      <file name="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyService.java" timestamp="1445524293588">
-        <mark key="[" line="39" column="0" />
-        <mark key="]" line="39" column="0" />
-        <mark key="." line="39" column="0" />
+      <file name="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyService.java" timestamp="1445525372572">
+        <mark key="[" line="112" column="29" />
+        <mark key="]" line="112" column="30" />
+        <mark key="^" line="112" column="30" />
+        <mark key="." line="112" column="30" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/views/tags/ui/wizard/disableableButton.html" timestamp="1445267023477">
         <mark key="'" line="24" column="6" />
@@ -79,11 +80,12 @@
       <file name="$USER_HOME$/work/playcart/app/jobs/productcrawler/ProductCrawlerJob.java" timestamp="1444992698334">
         <mark key="'" line="586" column="15" />
       </file>
-      <file name="$USER_HOME$/work/playcart/app/services/smartly/client/models/Campaign.java" timestamp="1445522665830">
+      <file name="$USER_HOME$/work/playcart/app/services/smartly/client/models/Campaign.java" timestamp="1445524922868">
         <mark key="'" line="1881" column="77" />
         <mark key="[" line="256" column="23" />
-        <mark key="]" line="260" column="0" />
-        <mark key="." line="260" column="0" />
+        <mark key="]" line="256" column="53" />
+        <mark key="." line="256" column="53" />
+        <mark key="^" line="256" column="53" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/views/admin/merchant/SmartlyAdverts/show.html" timestamp="1445520447566">
         <mark key="'" line="39" column="23" />
@@ -113,6 +115,12 @@
         <mark key="]" line="26" column="18" />
         <mark key="." line="26" column="18" />
         <mark key="^" line="26" column="18" />
+      </file>
+      <file name="$USER_HOME$/work/playcart/app/services/smartly/SmartlyService.java" timestamp="1445525534405">
+        <mark key="'" line="40" column="0" />
+        <mark key="[" line="142" column="4" />
+        <mark key="]" line="142" column="4" />
+        <mark key="." line="142" column="4" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/services/smartly/client/models/RemoteSmartlyAccount.java" timestamp="1445422181551">
         <mark key="'" line="15" column="18" />
@@ -180,8 +188,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="79" column="25" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyService.java" />
-      <jump line="305" column="0" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyService.java" />
       <jump line="142" column="91" filename="$USER_HOME$/work/playcart/app/models/ads/facebook/SmartlyAccount.java" />
       <jump line="27" column="27" filename="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" />
       <jump line="211" column="24" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyService.java" />
@@ -280,55 +286,57 @@
       <jump line="937" column="24" filename="$USER_HOME$/work/playcart/conf/messages" />
       <jump line="938" column="24" filename="$USER_HOME$/work/playcart/conf/messages" />
       <jump line="939" column="24" filename="$USER_HOME$/work/playcart/conf/messages" />
+      <jump line="142" column="4" filename="$USER_HOME$/work/playcart/app/services/smartly/SmartlyService.java" />
+      <jump line="40" column="0" filename="$USER_HOME$/work/playcart/app/services/smartly/SmartlyService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmYWNlYm9va0FjY291bnRTdGF0dXNcPg==</text>
+        <text>public</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChqc29uTm9kZS5oYXMoImJpZF9hbW91bnQiKSkgewo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICA+Pj4+Pj4+bWFzdGVyCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">cHVibGljIA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICA9PT09PT09Cg==</text>
+      <register name="3" type="4">
+        <text>1</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICA8PDw8PDw8SEVBRAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">Kz0g</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICA+Pj4+Pj4+bWFzdGVyCg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICA9PT09PT09Cg==</text>
+      <register name="6" type="4">
+        <text>1</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8PDw8PDw8SEVBRAo=</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICA+Pj4+Pj4+bWFzdGVyCg==</text>
+      <register name="8" type="4">
+        <text>=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICA9PT09PT09Cg==</text>
+      <register name="9" type="4">
+        <text>+</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmYWNlYm9va0FjY291bnRTdGF0dXNcPg==</last-search>
+      <last-search>public</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmYWNlYm9va0FjY291bnRTdGF0dXNcPg==</last-pattern>
+      <last-pattern>public</last-pattern>
       <last-replace>manual</last-replace>
       <last-substitute>auto</last-substitute>
       <last-dir>1</last-dir>
@@ -336,7 +344,6 @@
     </search>
     <history>
       <history-search>
-        <entry>getBidValue</entry>
         <entry encoding="base64">XDxnZXRCaWRWYWx1ZVw+</entry>
         <entry encoding="base64">XDxjdXJyZW5jeVw+</entry>
         <entry>VISIBL</entry>
@@ -356,6 +363,7 @@
         <entry encoding="base64">XDxDYW1wYWlnbkRUT1w+</entry>
         <entry encoding="base64">XDxHZW5lcmljQmlkRGVzZXJpYWxpemVyXD4=</entry>
         <entry encoding="base64">XDxmYWNlYm9va0FjY291bnRTdGF0dXNcPg==</entry>
+        <entry>public</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvLFxyL2c=</entry>
