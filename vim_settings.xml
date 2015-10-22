@@ -79,12 +79,12 @@
       <file name="$USER_HOME$/work/playcart/app/jobs/productcrawler/ProductCrawlerJob.java" timestamp="1444992698334">
         <mark key="'" line="586" column="15" />
       </file>
-      <file name="$USER_HOME$/work/playcart/app/services/smartly/client/models/Campaign.java" timestamp="1445503683327">
-        <mark key="'" line="117" column="24" />
-        <mark key="[" line="1305" column="34" />
-        <mark key="]" line="1305" column="35" />
-        <mark key="^" line="1305" column="34" />
-        <mark key="." line="1305" column="35" />
+      <file name="$USER_HOME$/work/playcart/app/services/smartly/client/models/Campaign.java" timestamp="1445506811024">
+        <mark key="'" line="1292" column="39" />
+        <mark key="[" line="476" column="0" />
+        <mark key="]" line="476" column="0" />
+        <mark key="^" line="1317" column="38" />
+        <mark key="." line="476" column="0" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/views/admin/merchant/SmartlyAdverts/connect.html" timestamp="1445267370588">
         <mark key="[" line="38" column="227" />
@@ -120,7 +120,7 @@
         <mark key="." line="880" column="97" />
         <mark key="^" line="880" column="97" />
       </file>
-      <file name="$USER_HOME$/work/playcart/app/services/smartly/client/SmartlyAPIClient.java" timestamp="1445503047238" />
+      <file name="$USER_HOME$/work/playcart/app/services/smartly/client/SmartlyAPIClient.java" timestamp="1445507223919" />
       <file name="$USER_HOME$/work/playcart/app/services/smartly/client/models/FacebookStatusSerializer.java" timestamp="1445421727747">
         <mark key="[" line="15" column="25" />
         <mark key="]" line="15" column="59" />
@@ -162,8 +162,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="165" column="0" filename="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" />
-      <jump line="126" column="14" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyAPIService.java" />
       <jump line="86" column="0" filename="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" />
       <jump line="62" column="12" filename="$USER_HOME$/work/playcart/app/services/api/TokenService.java" />
       <jump line="0" column="0" filename="$USER_HOME$/work/playcart/app/services/api/TokenService.java" />
@@ -262,55 +260,57 @@
       <jump line="910" column="48" filename="$USER_HOME$/work/playcart/app/controllers/admin/merchant/SmartlyAdverts.java" />
       <jump line="907" column="19" filename="$USER_HOME$/work/playcart/app/controllers/admin/merchant/SmartlyAdverts.java" />
       <jump line="193" column="33" filename="$USER_HOME$/work/playcart/app/views/admin/merchant/SmartlyAdverts/blank.html" />
+      <jump line="1305" column="28" filename="$USER_HOME$/work/playcart/app/services/smartly/client/models/Campaign.java" />
+      <jump line="1303" column="39" filename="$USER_HOME$/work/playcart/app/services/smartly/client/models/Campaign.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgQmlkKExvbmcgdmFsdWUpIHsKICAgICAgICAgICAgdGhpcy5zZXRCaWRBbW91bnQodmFsdWUpOwogICAgICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>true</text>
+        <text encoding="base64">Qm9vbGVhbiA=</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzd2l0Y2hGaWVsZFw+</text>
+        <text encoding="base64">XDxhdXRvQmlkXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBwdWJsaWMgQmlkKExvbmcgdmFsdWUpIHsKICAgICAgICAgICAgdGhpcy5zZXRCaWRBbW91bnQodmFsdWUpOwogICAgICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGxvbmcgYmlkQW1vdW50ID0gMDsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2FtcGFpZ24uc2V0QXUK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>true</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8bGFiZWwgY2xhc3M9ImZvcm0tbGFiZWwiPiZ7J2FkbWluLm1lcmNoYW50cy5zbWFydGx5LmNhbXBhaWduLm9iamVjdC5hdXRvQmlkJ308L2xhYmVsPgo=</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogQWRkcyBhIG5ldyBDUEMgYmlkIHRvIHRoZSBhcnJheSBvZiBiaWRzCiAgICAgKiAKICAgICAqIEBwYXJhbSB2YWx1ZQogICAgICogICAgICAgICAgICBUaGUgdmFsdWUgb2YgdGhlIGJpZCBpbiBjZW50cwogICAgICovCiAgICBARGVwcmVjYXRlZAogICAgcHVibGljIHZvaWQgc2V0QmlkKExvbmcgdmFsdWUpIHsKICAgICAgICB0aGlzLmdldEJpZHMoKS5hZGQobmV3IEJpZCh2YWx1ZSkpOwo=</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8L2Rpdj4K</text>
+      <register name="4" type="4">
+        <text encoding="base64">Qm9vbGVhbiA=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgIDxzcGFuIGNsYXNzPSJwb3N0Zml4Ij4ke2FjY291bnQuZmFjZWJvb2tDdXJyZW5jeX08L3NwYW4+Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">Qm9vbGVhbiA=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJzbWFsbC0zIGNvbHVtbnMiPgo=</text>
+      <register name="6" type="4">
+        <text>FALSE</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">bW9iaWxlIA==</text>
+        <text>.</text>
       </register>
       <register name="8" type="4">
-        <text>true</text>
+        <text>Boolean</text>
       </register>
       <register name="9" type="4">
-        <text>mobile</text>
+        <text encoding="base64">Qm9vbGVhbiA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzd2l0Y2hGaWVsZFw+</last-search>
+      <last-search encoding="base64">XDxhdXRvQmlkXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzd2l0Y2hGaWVsZFw+</last-pattern>
+      <last-pattern encoding="base64">XDxhdXRvQmlkXD4=</last-pattern>
       <last-replace>,</last-replace>
       <last-substitute>$</last-substitute>
       <last-dir>1</last-dir>
@@ -335,9 +335,9 @@
         <entry>createCamp</entry>
         <entry>is_au</entry>
         <entry encoding="base64">XDxidWRnZXRcPg==</entry>
-        <entry encoding="base64">XDxhdXRvQmlkXD4=</entry>
         <entry encoding="base64">XDxkaXNjb3VudFBvcHVwQ29kZVw+</entry>
         <entry encoding="base64">XDxzd2l0Y2hGaWVsZFw+</entry>
+        <entry encoding="base64">XDxhdXRvQmlkXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>W</entry>
