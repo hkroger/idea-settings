@@ -6,6 +6,12 @@
       <file name="/a.dummy" timestamp="1445850387503">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/playcart/app/controllers/admin/merchant/Statistics.java" timestamp="1445614871652">
+        <mark key="'" line="75" column="37" />
+        <mark key="[" line="76" column="0" />
+        <mark key="]" line="76" column="0" />
+        <mark key="." line="76" column="0" />
+      </file>
       <file name="$USER_HOME$/work/playcart/app/controllers/cron/CreateBillingEstimates.java" timestamp="1445857854170">
         <mark key="[" line="60" column="0" />
         <mark key="]" line="60" column="0" />
@@ -52,6 +58,11 @@
         <mark key="]" line="135" column="0" />
         <mark key="." line="135" column="0" />
       </file>
+      <file name="$USER_HOME$/work/playcart/app/controllers/cron/MorphiaIndexCheckController.java" timestamp="1445859441573">
+        <mark key="[" line="53" column="0" />
+        <mark key="]" line="53" column="0" />
+        <mark key="." line="53" column="0" />
+      </file>
       <file name="$USER_HOME$/work/playcart/app/controllers/extras/bigcommerce/BigcommerceAppController.java" timestamp="1445855193698">
         <mark key="[" line="181" column="68" />
       </file>
@@ -69,14 +80,19 @@
       <file name="$USER_HOME$/work/playcart/test/services/visits/VisitServiceTest.java" timestamp="1445855706725">
         <mark key="[" line="157" column="68" />
       </file>
-      <file name="$USER_HOME$/work/playcart/app/controllers/cron/UpdateAdnetworkScoresController.java" timestamp="1445425745905">
-        <mark key="[" line="31" column="18" />
-        <mark key="]" line="31" column="18" />
-        <mark key="." line="31" column="18" />
+      <file name="$USER_HOME$/work/playcart/app/controllers/cron/UpdateAdnetworkScoresController.java" timestamp="1445859583449">
+        <mark key="[" line="95" column="0" />
+        <mark key="]" line="95" column="0" />
         <mark key="^" line="31" column="18" />
+        <mark key="." line="95" column="0" />
       </file>
       <file name="$USER_HOME$/work/playcart/test/models/merchant/product/rec/RAVisibilityBasedCartPageTest.java" timestamp="1445856688774">
         <mark key="[" line="93" column="68" />
+      </file>
+      <file name="$USER_HOME$/work/playcart/app/controllers/cron/MonthlyStatisticsMailerController.java" timestamp="1445859421924">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="107" column="0" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/services/extras/bigcommerce/BigcommerceHistoryImportJob.java" timestamp="1445851798074">
         <mark key="[" line="71" column="56" />
@@ -88,6 +104,23 @@
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
         <mark key="." line="74" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/playcart/app/controllers/cron/SalesforceSynchronizationController.java" timestamp="1445859599237">
+        <mark key="'" line="123" column="12" />
+        <mark key="[" line="125" column="0" />
+        <mark key="]" line="125" column="0" />
+        <mark key="." line="125" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/playcart/app/controllers/cron/SmartlyController.java" timestamp="1445859522462">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="0" />
+        <mark key="." line="42" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/playcart/app/controllers/visit/mobile/NonBrowserEventControllerV1.java" timestamp="1445614894845">
+        <mark key="'" line="109" column="27" />
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/controllers/cron/CassandraRecPairsDeprecator.java" timestamp="1445857842264">
         <mark key="[" line="23" column="0" />
@@ -150,9 +183,9 @@
         <mark key="." line="7" column="3" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/controllers/cron/CronJobController.java" timestamp="1445858166089">
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="0" />
+        <mark key="." line="56" column="0" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/jobs/billing/CreateBillingEstimatesJob.java" timestamp="1445851110606">
         <mark key="[" line="35" column="24" />
@@ -199,6 +232,11 @@
       <file name="$USER_HOME$/work/playcart/test/models/merchant/product/rec/RAOrderRelatedFilteredTest.java" timestamp="1445856700688">
         <mark key="[" line="61" column="36" />
       </file>
+      <file name="$USER_HOME$/work/playcart/app/controllers/cron/MerchantStatusCheckerController.java" timestamp="1445859403186">
+        <mark key="[" line="84" column="0" />
+        <mark key="]" line="84" column="0" />
+        <mark key="." line="84" column="0" />
+      </file>
       <file name="$USER_HOME$/work/playcart/app/jobs/BaseTask.java" timestamp="1445850247482">
         <mark key="[" line="44" column="37" />
         <mark key="]" line="46" column="33" />
@@ -234,19 +272,24 @@
         <mark key="^" line="54" column="159" />
         <mark key="." line="54" column="159" />
       </file>
-      <file name="$USER_HOME$/work/playcart/app/controllers/cron/SendMailController.java" timestamp="1445851201959">
-        <mark key="[" line="70" column="90" />
-        <mark key="]" line="70" column="31" />
-        <mark key="^" line="70" column="31" />
-        <mark key="." line="70" column="31" />
+      <file name="$USER_HOME$/work/playcart/app/controllers/cron/SendMailController.java" timestamp="1445859513655">
+        <mark key="[" line="103" column="0" />
+        <mark key="]" line="103" column="0" />
+        <mark key="^" line="55" column="31" />
+        <mark key="." line="103" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/playcart/app/controllers/cron/ProcessProductExpireNotificationsController.java" timestamp="1445859451007">
+        <mark key="[" line="49" column="0" />
+        <mark key="]" line="49" column="0" />
+        <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/controllers/extras/bigcommerce/BigcommerceGlobalAdminController.java" timestamp="1445855212452">
         <mark key="[" line="259" column="72" />
       </file>
-      <file name="$USER_HOME$/work/playcart/app/controllers/cron/IntercomSyncController.java" timestamp="1445858240327">
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="47" column="0" />
-        <mark key="." line="47" column="0" />
+      <file name="$USER_HOME$/work/playcart/app/controllers/cron/IntercomSyncController.java" timestamp="1445859385483">
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/controllers/cron/CreateRecSummariesController.java" timestamp="1445858031163">
         <mark key="[" line="40" column="0" />
@@ -315,6 +358,12 @@
         <mark key="^" line="15" column="59" />
         <mark key="." line="15" column="59" />
       </file>
+      <file name="$USER_HOME$/work/playcart/app/models/merchant/product/rec/RecommendationAlgorithm.java" timestamp="1445615060278">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="68" column="0" />
+        <mark key="]" line="68" column="0" />
+        <mark key="." line="68" column="0" />
+      </file>
       <file name="$USER_HOME$/work/playcart/app/controllers/cron/EmailVerificationSynchController.java" timestamp="1445858202507">
         <mark key="[" line="27" column="0" />
         <mark key="]" line="27" column="0" />
@@ -344,6 +393,12 @@
         <mark key="[" line="86" column="0" />
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
+      </file>
+      <file name="$USER_HOME$/work/playcart/conf/messages" timestamp="1445524268449">
+        <mark key="'" line="939" column="24" />
+        <mark key="[" line="731" column="0" />
+        <mark key="]" line="731" column="0" />
+        <mark key="." line="731" column="0" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/views/admin/merchant/SmartlyAdverts/connect.html" timestamp="1445267370588">
         <mark key="[" line="38" column="227" />
@@ -377,9 +432,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="72" column="51" filename="$USER_HOME$/work/playcart/test/services/extras/platforms/PlatformAccountCreationTest.java" />
-      <jump line="172" column="0" filename="$USER_HOME$/work/playcart/test/api/SmartlyFunctionalTest.java" />
-      <jump line="38" column="20" filename="$USER_HOME$/work/playcart/test/api/SmartlyFunctionalTest.java" />
       <jump line="829" column="32" filename="$USER_HOME$/work/playcart/conf/application.conf" />
       <jump line="68" column="47" filename="$USER_HOME$/work/playcart/app/models/adnetwork/AdvertSlotView.java" />
       <jump line="138" column="23" filename="$USER_HOME$/work/playcart/app/models/adnetwork/AdvertSlotView.java" />
@@ -477,55 +529,58 @@
       <jump line="164" column="20" filename="$USER_HOME$/work/playcart/test/ClassInvariantsTest.java" />
       <jump line="121" column="13" filename="$USER_HOME$/work/playcart/test/ClassInvariantsTest.java" />
       <jump line="147" column="13" filename="$USER_HOME$/work/playcart/test/ClassInvariantsTest.java" />
+      <jump line="42" column="32" filename="$USER_HOME$/work/playcart/app/controllers/cron/SalesforceSynchronizationController.java" />
+      <jump line="72" column="16" filename="$USER_HOME$/work/playcart/app/controllers/cron/SalesforceSynchronizationController.java" />
+      <jump line="123" column="12" filename="$USER_HOME$/work/playcart/app/controllers/cron/SalesforceSynchronizationController.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBpbXByb3ZlbWVudC9jcm9uam9iX3JlZmFjdG9yaW5nCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgfSBmaW5hbGx5IHsKICAgICAgICAgICAgQ1JPTl9KT0JfUkVHSVNUUlkuZmluaXNoZWQoSUQpOwo9PT09PT09Cj4+Pj4+Pj4gaW1wcm92ZW1lbnQvY3JvbmpvYl9yZWZhY3RvcmluZwo=</text>
       </register>
       <register name="-" type="4">
         <text>cronJobRegistry</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxoYXNFbXB0eUNvbnN0cnVjdG9yXD4=</text>
+        <text encoding="base64">XDxlbWFpbFNlcnZpY2VcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgZmluYWwgTWFwPFN0cmluZyxCaWxsPiBsYXN0QmlsbHNCeU1lcmNoYW50Owo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBpbXByb3ZlbWVudC9jcm9uam9iX3JlZmFjdG9yaW5nCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgfSBmaW5hbGx5IHsKICAgICAgICAgICAgQ1JPTl9KT0JfUkVHSVNUUlkuZmluaXNoZWQoSUQpOwo9PT09PT09Cj4+Pj4+Pj4gaW1wcm92ZW1lbnQvY3JvbmpvYl9yZWZhY3RvcmluZwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgQ1JPTl9KT0JfUkVHSVNUUlkuZXhlY3V0aW5nKElEKTsKICAgICAgICB0cnkgewogICAgICAgICAgICBMaXN0PE1lcmNoYW50PiBtZXJjaGFudHMgPSBNZXJjaGFudC5maW5kQWxsKCk7CiAgICAgICAgICAgIExvZ2dlci5pbmZvKCJTeW5jaHJvbml6aW5nICVkIG1lcmNoYW50cyB3aXRoIEludGVyY29tLi4uIiwgbWVyY2hhbnRzLnNpemUoKSk7CiAgICAgICAgICAgIAogICAgICAgICAgICBmb3IgKEl0ZXJhdG9yPE1lcmNoYW50PiBpdCA9IG1lcmNoYW50cy5pdGVyYXRvcigpOyBpdC5oYXNOZXh0KCkgJiYgIUNST05fSk9CX1JFR0lTVFJZLmlzU3RvcHBpbmcoKTspIHsKICAgICAgICAgICAgICAgIE1lcmNoYW50IG1lcmNoYW50ID0gaXQubmV4dCgpOwogICAgICAgICAgICAgICAgaWYgKG1lcmNoYW50LmlzVGVtcGxhdGUoKSkgewogICAgICAgICAgICAgICAgICAgIC8vIHNraXAgdGVtcGxhdGUgYWNjb3VudHMKICAgICAgICAgICAgICAgICAgICBjb250aW51ZTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICAgICAgc2VydmljZS51cGRhdGVDb21wYW55KG1lcmNoYW50KTsKICAgICAgICAgICAgICAgIH0gY2F0Y2ggKEludGVyY29tRXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgICAgICBMb2dnZXIuZXJyb3IoZSwgIkludGVyY29tU3luY0NvbnRyb2xsZXI6IGZhaWxlZCB0byBzeW5jIG1lcmNoYW50ICVzIHdpdGggSW50ZXJjb20iLCBtZXJjaGFudC5uYW1lKTsKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQoKICAgICAgICAgICAgaWYgKENST05fSk9CX1JFR0lTVFJZLmlzU3RvcHBpbmcoKSkgewogICAgICAgICAgICAgICAgTG9nZ2VyLmluZm8oIkNyb25Kb2IgJXM6IFN0b3BwaW5nLi4uIiwgSUQpOwo9PT09PT09Cg==</text>
+        <text encoding="base64">Pj4+Pj4+PiBpbXByb3ZlbWVudC9jcm9uam9iX3JlZmFjdG9yaW5nCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBpbXByb3ZlbWVudC9jcm9uam9iX3JlZmFjdG9yaW5nCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICAgIGlmIChDUk9OX0pPQl9SRUdJU1RSWS5pc1N0b3BwaW5nKCkpIHsKICAgICAgICAgICAgICAgIExvZ2dlci5pbmZvKCJDcm9uSm9iICVzOiBTdG9wcGluZy4uLiIsIElEKTsKPT09PT09PQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgQ1JPTl9KT0JfUkVHSVNUUlkuZXhlY3V0aW5nKElEKTsKICAgICAgICB0cnkgewogICAgICAgICAgICBmb3IgKFNtYXJ0bHlBY2NvdW50IGFjY291bnQgOiBTbWFydGx5QWNjb3VudC5maW5kQWxsQWN0aXZlKCkpIHsKICAgICAgICAgICAgICAgIHVwZGF0ZShhY2NvdW50KTsKICAgICAgICAgICAgfQogICAgICAgIH0gZmluYWxseSB7CiAgICAgICAgICAgIENST05fSk9CX1JFR0lTVFJZLmZpbmlzaGVkKElEKTsKPT09PT09PQo=</text>
+        <text encoding="base64">CiAgICAgICAgICAgIExvZ2dlci5pbmZvKCJVcGRhdGVBZG5ldHdvcmtTY29yZXM6IGZpbmlzaGVkIGV4ZWN1dGlvbiwgcmVzdWx0PSVzIiwgcmVzdWx0LnRvU3RyaW5nKCkpOwogICAgICAgICAgICByZXR1cm4gcmVzdWx0LnRvU3RyaW5nKCk7CiAgICAgICAgfSBjYXRjaCAoRXhjZXB0aW9uIGUpIHsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBpbXByb3ZlbWVudC9jcm9uam9iX3JlZmFjdG9yaW5nCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKENST05fSk9CX1JFR0lTVFJZLmlzU3RvcHBpbmcoKSkgewogICAgICAgICAgICAgICAgTG9nZ2VyLmluZm8oIkNyb25Kb2IgJXM6IFN0b3BwaW5nLi4uIiwgZ2V0Q3JvbkpvYklkKCkpOwo+Pj4+Pj4+IGltcHJvdmVtZW50L2Nyb25qb2JfcmVmYWN0b3JpbmcKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgQ1JPTl9KT0JfUkVHSVNUUlkuZXhlY3V0aW5nKElEKTsKICAgICAgICB0cnkgewogICAgICAgICAgICBpZiAoKGpvYiA9PSBudWxsKSB8fCBqb2IuZ2V0UG9vbFN0YXR1cygpLmlzVGVybWluYXRlZCkgewogICAgICAgICAgICAgICAgam9iID0gbmV3IERlbGV0ZU9sZFByb2R1Y3RzSm9iKCk7CiAgICAgICAgICAgICAgICBqb2Iuc3RhcnRXb3JraW5nKCk7CiAgICAgICAgICAgICAgICBqb2IuYXdhaXRUZXJtaW5hdGlvbihUaW1lVW5pdC5NSU5VVEVTLnRvTWlsbGlzKDEwTCkpOwogICAgICAgICAgICB9CiAgICAgICAgfSBmaW5hbGx5IHsKICAgICAgICAgICAgQ1JPTl9KT0JfUkVHSVNUUlkuZmluaXNoZWQoSUQpOwo9PT09PT09Cg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgICAgIGlmIChDUk9OX0pPQl9SRUdJU1RSWS5pc1N0b3BwaW5nKCkpIHsKICAgICAgICAgICAgICAgIExvZ2dlci5pbmZvKCJDcm9uSm9iICVzOiBTdG9wcGluZy4uLiIsIElEKTsKPT09PT09PQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBpbXByb3ZlbWVudC9jcm9uam9iX3JlZmFjdG9yaW5nCg==</text>
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgQ1JPTl9KT0JfUkVHSVNUUlkuZXhlY3V0aW5nKElEKTsKPT09PT09PQo+Pj4+Pj4+IGltcHJvdmVtZW50L2Nyb25qb2JfcmVmYWN0b3JpbmcK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICAgICAgQ1JPTl9KT0JfUkVHSVNUUlkuZXhlY3V0aW5nKElEKTsKICAgICAgICB0cnkgewogICAgICAgICAgICByZW5kZXJUZXh0KGVtYWlsVmVyaWZpY2F0aW9uU2VydmljZS5zeW5jaFZlcmlmaWNhdGlvblN0YXR1c2VzKCkpOwogICAgICAgIH0gZmluYWxseSB7CiAgICAgICAgICAgIENST05fSk9CX1JFR0lTVFJZLmZpbmlzaGVkKElEKTsKICAgICAgICB9Cj09PT09PT0K</text>
+        <text encoding="base64">Pj4+Pj4+PiBpbXByb3ZlbWVudC9jcm9uam9iX3JlZmFjdG9yaW5nCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBpbXByb3ZlbWVudC9jcm9uam9iX3JlZmFjdG9yaW5nCg==</text>
+        <text encoding="base64">PT09PT09PQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxoYXNFbXB0eUNvbnN0cnVjdG9yXD4=</last-search>
+      <last-search encoding="base64">XDxlbWFpbFNlcnZpY2VcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxoYXNFbXB0eUNvbnN0cnVjdG9yXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxlbWFpbFNlcnZpY2VcPg==</last-pattern>
       <last-replace>p</last-replace>
       <last-substitute>span</last-substitute>
       <last-dir>1</last-dir>
@@ -533,7 +588,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mappings</entry>
         <entry encoding="base64">XDxjcmVhdGVUb2tlblw+</entry>
         <entry encoding="base64">XDxydW50aW1lU2VydmljZXNcPg==</entry>
         <entry encoding="base64">XDxURU1QTEFURVNcPg==</entry>
@@ -553,6 +607,7 @@
         <entry encoding="base64">XDxEZWZhdWx0SGlzdG9yeUltcG9ydEpvYlw+</entry>
         <entry encoding="base64">XDxtZXJjaGFudFw+</entry>
         <entry encoding="base64">XDxoYXNFbXB0eUNvbnN0cnVjdG9yXD4=</entry>
+        <entry encoding="base64">XDxlbWFpbFNlcnZpY2VcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvLFxyL2c=</entry>
