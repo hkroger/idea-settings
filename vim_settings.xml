@@ -370,11 +370,12 @@
         <mark key="]" line="86" column="0" />
         <mark key="." line="86" column="0" />
       </file>
-      <file name="$USER_HOME$/work/playcart/conf/messages" timestamp="1445524268449">
-        <mark key="'" line="939" column="24" />
-        <mark key="[" line="731" column="0" />
-        <mark key="]" line="731" column="0" />
-        <mark key="." line="731" column="0" />
+      <file name="$USER_HOME$/work/playcart/conf/messages" timestamp="1445864138109">
+        <mark key="'" line="940" column="24" />
+        <mark key="[" line="773" column="51" />
+        <mark key="]" line="773" column="61" />
+        <mark key="." line="773" column="61" />
+        <mark key="^" line="773" column="61" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/views/admin/merchant/SmartlyAdverts/connect.html" timestamp="1445267370588">
         <mark key="[" line="38" column="227" />
@@ -507,44 +508,44 @@
       <jump line="12" column="0" filename="$USER_HOME$/work/playcart/conf/application.conf" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Post-purchase Ads</text>
       </register>
       <register name="-" type="4">
-        <text>staging</text>
+        <text>Post-purchase Ads</text>
       </register>
       <register name="/" type="4">
         <text>smartly</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGlzTGFzdFVwZGF0ZVRpbWVPbGQoKSB7CiAgICAgICAgcmV0dXJuIGxhc3RVcGRhdGVUaW1lLmlzQmVmb3JlKERhdGVUaW1lLm5vdygpLm1pbnVzRGF5cygxKSk7CgogICAgfQo=</text>
+        <text encoding="base64">YWRtaW4ubWVyY2hhbnRzLnNtYXJ0bHkuY2FtcGFpZ24ubGlzdC50eXBlLkJPVUdIVD1Qb3N0LXB1cmNoYXNlIEFkcwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>Post-purchase Ads</text>
       </register>
       <register name="2" type="4">
-        <text>staging</text>
+        <text>BOUGHT</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>.</text>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>feed</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>n</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>g</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>]</text>
+        <text>staging</text>
       </register>
-      <register name="9" type="4">
-        <text>[</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
