@@ -60,6 +60,12 @@
         <mark key="^" line="55" column="31" />
         <mark key="." line="103" column="0" />
       </file>
+      <file name="$USER_HOME$/work/playcart/test/LocalisationTest.java" timestamp="1445955979382">
+        <mark key="'" line="40" column="59" />
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
+      </file>
       <file name="$USER_HOME$/work/playcart/test/services/extras/DefaultHistoryImportJobTest.java" timestamp="1445850863174">
         <mark key="[" line="130" column="41" />
         <mark key="]" line="130" column="51" />
@@ -233,11 +239,9 @@
         <mark key="'" line="66" column="25" />
       </file>
       <file name="$USER_HOME$/work/playcart/test/services/search/ElasticSearchExcludedFieldsTest.java" timestamp="1445954403745">
-        <mark key="'" line="33" column="230" />
-        <mark key="[" line="33" column="340" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-        <mark key="^" line="34" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="32" column="0" />
+        <mark key="^" line="32" column="0" />
       </file>
       <file name="$USER_HOME$/work/playcart/test/services/extras/shopify/ShopifyHistoryImportJobTest.java" timestamp="1445856736378">
         <mark key="[" line="99" column="74" />
@@ -393,10 +397,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="189" column="91" filename="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" />
-      <jump line="277" column="88" filename="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" />
-      <jump line="329" column="70" filename="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" />
-      <jump line="249" column="0" filename="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" />
       <jump line="207" column="44" filename="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" />
       <jump line="287" column="44" filename="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" />
       <jump line="206" column="77" filename="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" />
@@ -493,55 +493,59 @@
       <jump line="27" column="8" filename="$USER_HOME$/work/playcart/test/services/search/ElasticSearchExcludedFieldsTest.java" />
       <jump line="24" column="42" filename="$USER_HOME$/work/playcart/test/services/search/ElasticSearchExcludedFieldsTest.java" />
       <jump line="33" column="230" filename="$USER_HOME$/work/playcart/test/services/search/ElasticSearchExcludedFieldsTest.java" />
+      <jump line="34" column="13" filename="$USER_HOME$/work/playcart/test/LocalisationTest.java" />
+      <jump line="39" column="32" filename="$USER_HOME$/work/playcart/test/LocalisationTest.java" />
+      <jump line="15" column="17" filename="$USER_HOME$/work/playcart/test/LocalisationTest.java" />
+      <jump line="40" column="59" filename="$USER_HOME$/work/playcart/test/LocalisationTest.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text>brand</text>
+        <text encoding="base64">XDxyZWdleFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIERhdGVUaW1lWm9uZSBvcmlnaW5hbFRpbWVab25lOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
-      <register name="2" type="4">
-        <text>,\&quot;brand\&quot;:\&quot;brand\&quot;</text>
+      <register name="2" type="2">
+        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBTdHJpbmcgUkVHRVggPSAiJShcXGQrXFwkKT8oWy0jKyAwLChcXDxdKik/KFxcZCspPyhcXC5cXGQrKT8oW3RUXSk/KFthLXpBLVolXSkiOwogICAgcHJpdmF0ZSBzdGF0aWMgZmluYWwgUGF0dGVybiBQQVRURVJOID0gUGF0dGVybi5jb21waWxlKFJFR0VYKTsKPT09PT09PQo=</text>
       </register>
       <register name="3" type="4">
-        <text>,\&quot;name\&quot;:\&quot;Name\&quot;</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>,\&quot;tags1\&quot;:[\&quot;t1\&quot;]</text>
+        <text>,\&quot;brand\&quot;:\&quot;brand\&quot;</text>
       </register>
       <register name="5" type="4">
-        <text>,\&quot;listPrice\&quot;:10.99</text>
+        <text>,\&quot;name\&quot;:\&quot;Name\&quot;</text>
       </register>
       <register name="6" type="4">
-        <text>\&quot;price\&quot;:9.99,</text>
+        <text>,\&quot;tags1\&quot;:[\&quot;t1\&quot;]</text>
       </register>
       <register name="7" type="4">
-        <text>\&quot;category\&quot;:[\&quot;c1/c2\&quot;,\&quot;c1/c3\&quot;],</text>
+        <text>,\&quot;listPrice\&quot;:10.99</text>
       </register>
       <register name="8" type="4">
-        <text>\&quot;priceCurrencyCode\&quot;:\&quot;\&quot;,</text>
+        <text>\&quot;price\&quot;:9.99,</text>
       </register>
       <register name="9" type="4">
-        <text>,\&quot;ProductScore8_buys\&quot;:10</text>
+        <text>\&quot;category\&quot;:[\&quot;c1/c2\&quot;,\&quot;c1/c3\&quot;],</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>brand</last-search>
+      <last-search encoding="base64">XDxyZWdleFw+</last-search>
       <last-offset />
-      <last-pattern>brand</last-pattern>
+      <last-pattern encoding="base64">XDxyZWdleFw+</last-pattern>
       <last-replace>p</last-replace>
       <last-substitute>span</last-substitute>
       <last-dir>1</last-dir>
@@ -549,8 +553,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx4XD4=</entry>
-        <entry encoding="base64">XDxyZWNQYWlyc0J5VGFyZ2V0XD4=</entry>
         <entry encoding="base64">XDx0b3RhbFJlY3BhaXJcPg==</entry>
         <entry encoding="base64">XDxsYXJnZXN0UmVjcGFpclw+</entry>
         <entry encoding="base64">XDxxdWVyeVBhaXJzQnlTb3VyY2VDb25jdXJyZW50XD4=</entry>
@@ -569,6 +571,8 @@
         <entry>list</entry>
         <entry>name</entry>
         <entry>brand</entry>
+        <entry encoding="base64">XDxwYXR0ZXJuXD4=</entry>
+        <entry encoding="base64">XDxyZWdleFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvLFxyL2c=</entry>
