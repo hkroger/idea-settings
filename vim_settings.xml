@@ -22,6 +22,9 @@
         <mark key="^" line="124" column="23" />
         <mark key="." line="301" column="0" />
       </file>
+      <file name="$USER_HOME$/work/playcart/app/cassandra/recpair/ReducedRecPairDAO.java" timestamp="1445932501507">
+        <mark key="'" line="612" column="67" />
+      </file>
       <file name="$USER_HOME$/work/playcart/test/ProductScoresTest.java" timestamp="1445856643169">
         <mark key="[" line="344" column="68" />
         <mark key="]" line="298" column="75" />
@@ -69,6 +72,9 @@
         <mark key="]" line="115" column="20" />
         <mark key="." line="115" column="20" />
         <mark key="^" line="115" column="20" />
+      </file>
+      <file name="$USER_HOME$/work/playcart/app/models/admin/FeatureConfiguration.java" timestamp="1445932480436">
+        <mark key="'" line="58" column="15" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/services/smartly/client/models/Product.java" timestamp="1445871543114">
         <mark key="'" line="48" column="18" />
@@ -422,8 +428,8 @@
         <mark key="^" line="23" column="40" />
         <mark key="." line="23" column="40" />
       </file>
-      <file name="$USER_HOME$/work/playcart/test/cassandra/recpair/CassandraRecPairInterfaceTest.java" timestamp="1445931461771">
-        <mark key="'" line="194" column="0" />
+      <file name="$USER_HOME$/work/playcart/test/cassandra/recpair/CassandraRecPairInterfaceTest.java" timestamp="1445932403457">
+        <mark key="'" line="169" column="73" />
         <mark key="[" line="194" column="0" />
         <mark key="]" line="194" column="0" />
         <mark key="." line="194" column="0" />
@@ -452,11 +458,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/work/playcart/test/bug/Bug42NPEinStringVM.java" />
-      <jump line="137" column="16" filename="$USER_HOME$/work/playcart/app/controllers/adnetwork/EventController.java" />
-      <jump line="325" column="68" filename="$USER_HOME$/work/playcart/app/controllers/adnetwork/EventController.java" />
-      <jump line="326" column="8" filename="$USER_HOME$/work/playcart/app/controllers/adnetwork/EventController.java" />
-      <jump line="340" column="26" filename="$USER_HOME$/work/playcart/app/controllers/adnetwork/EventController.java" />
       <jump line="360" column="56" filename="$USER_HOME$/work/playcart/app/controllers/adnetwork/EventController.java" />
       <jump line="27" column="24" filename="$USER_HOME$/work/playcart/app/controllers/adnetwork/EventController.java" />
       <jump line="133" column="12" filename="$USER_HOME$/work/playcart/app/controllers/adnetwork/EventController.java" />
@@ -552,6 +553,11 @@
       <jump line="171" column="33" filename="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" />
       <jump line="37" column="13" filename="$USER_HOME$/work/playcart/test/cassandra/recpair/CassandraRecPairInterfaceTest.java" />
       <jump line="194" column="0" filename="$USER_HOME$/work/playcart/test/cassandra/recpair/CassandraRecPairInterfaceTest.java" />
+      <jump line="177" column="43" filename="$USER_HOME$/work/playcart/test/cassandra/recpair/CassandraRecPairInterfaceTest.java" />
+      <jump line="169" column="73" filename="$USER_HOME$/work/playcart/test/cassandra/recpair/CassandraRecPairInterfaceTest.java" />
+      <jump line="58" column="15" filename="$USER_HOME$/work/playcart/app/models/admin/FeatureConfiguration.java" />
+      <jump line="372" column="67" filename="$USER_HOME$/work/playcart/app/cassandra/recpair/ReducedRecPairDAO.java" />
+      <jump line="612" column="67" filename="$USER_HOME$/work/playcart/app/cassandra/recpair/ReducedRecPairDAO.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -561,7 +567,7 @@
         <text>staging</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxnZXRCZXN0U2VsbGluZ1Byb2R1Y3RzXD4=</text>
+        <text encoding="base64">XDxyZWNQYWlyUmVhZExpbWl0WmVyb01lYW5zTm9MaW1pdFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGludCByYW5rID0gMTsKICAgICAgICAgICAgICAgIGZvciAoIFZhcmlhbnQgcHJvZHVjdCA6IHByb2R1Y3RzICkgewo=</text>
@@ -598,9 +604,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxnZXRCZXN0U2VsbGluZ1Byb2R1Y3RzXD4=</last-search>
+      <last-search encoding="base64">XDxyZWNQYWlyUmVhZExpbWl0WmVyb01lYW5zTm9MaW1pdFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxnZXRCZXN0U2VsbGluZ1Byb2R1Y3RzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxyZWNQYWlyUmVhZExpbWl0WmVyb01lYW5zTm9MaW1pdFw+</last-pattern>
       <last-replace>p</last-replace>
       <last-substitute>span</last-substitute>
       <last-dir>1</last-dir>
@@ -608,8 +614,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxEZWZhdWx0SGlzdG9yeUltcG9ydEpvYlw+</entry>
-        <entry encoding="base64">XDxtZXJjaGFudFw+</entry>
         <entry encoding="base64">XDxoYXNFbXB0eUNvbnN0cnVjdG9yXD4=</entry>
         <entry encoding="base64">XDxlbWFpbFNlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxHT09EX1NUQVRFU1w+</entry>
@@ -628,6 +632,8 @@
         <entry encoding="base64">XDx0aHVtYlZhcmlhbnRJZFw+</entry>
         <entry encoding="base64">XDxxdWFudGl0eVw+</entry>
         <entry encoding="base64">XDxnZXRCZXN0U2VsbGluZ1Byb2R1Y3RzXD4=</entry>
+        <entry encoding="base64">XDxwcm9kdWN0YVw+</entry>
+        <entry encoding="base64">XDxyZWNQYWlyUmVhZExpbWl0WmVyb01lYW5zTm9MaW1pdFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvLFxyL2c=</entry>
