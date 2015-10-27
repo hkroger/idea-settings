@@ -197,12 +197,6 @@
       <file name="$USER_HOME$/work/playcart/app/models/merchant/product/rec/TimePeriod.java" timestamp="1445596921744">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/playcart/app/services/smartly/client/models/SmartlyFeed.java" timestamp="1445929016491">
-        <mark key="[" line="54" column="74" />
-        <mark key="]" line="54" column="76" />
-        <mark key="^" line="54" column="76" />
-        <mark key="." line="54" column="76" />
-      </file>
       <file name="$USER_HOME$/work/playcart/app/jobs/statscreation/RecreateStatsTask.java" timestamp="1445851365399">
         <mark key="[" line="24" column="46" />
         <mark key="]" line="24" column="47" />
@@ -237,10 +231,10 @@
       </file>
       <file name="$USER_HOME$/work/playcart/conf/application.conf" timestamp="1445929110580">
         <mark key="'" line="12" column="0" />
-        <mark key="[" line="827" column="29" />
-        <mark key="]" line="827" column="29" />
-        <mark key="^" line="827" column="35" />
-        <mark key="." line="827" column="29" />
+        <mark key="[" line="367" column="29" />
+        <mark key="]" line="367" column="29" />
+        <mark key="^" line="367" column="35" />
+        <mark key="." line="367" column="29" />
       </file>
       <file name="$USER_HOME$/work/playcart/test/bug/Bug42NPEinStringVM.java" timestamp="1445599356734">
         <mark key="'" line="49" column="4" />
@@ -276,9 +270,6 @@
       </file>
       <file name="$USER_HOME$/work/playcart/conf/routes" timestamp="1445873465918">
         <mark key="'" line="206" column="14" />
-      </file>
-      <file name="$USER_HOME$/work/playcart/app/services/smartly/client/models/Campaign.java" timestamp="1445866003412">
-        <mark key="'" line="192" column="33" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/jobs/billing/CreateBillingEstimatesTask.java" timestamp="1445850965543">
         <mark key="[" line="54" column="142" />
@@ -388,9 +379,9 @@
       </file>
       <file name="$USER_HOME$/work/playcart/app/models/merchant/product/rec/RecommendationAlgorithm.java" timestamp="1445615060278">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="68" column="0" />
-        <mark key="]" line="68" column="0" />
-        <mark key="." line="68" column="0" />
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/controllers/cron/EmailVerificationSynchController.java" timestamp="1445858202507">
         <mark key="[" line="27" column="0" />
