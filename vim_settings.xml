@@ -40,6 +40,9 @@
       <file name="$USER_HOME$/work/playcart/conf/routes" timestamp="1445873465918">
         <mark key="'" line="206" column="14" />
       </file>
+      <file name="$USER_HOME$/work/playcart/test/controllers/cron/DeleteProductsNonPerformanceTests.java" timestamp="1445942129825">
+        <mark key="'" line="48" column="13" />
+      </file>
       <file name="$USER_HOME$/work/playcart/app/cassandra/recpair/ReducedRecPair.java" timestamp="1445937444291">
         <mark key="'" line="87" column="32" />
       </file>
@@ -471,7 +474,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="164" column="20" filename="$USER_HOME$/work/playcart/test/ClassInvariantsTest.java" />
       <jump line="121" column="13" filename="$USER_HOME$/work/playcart/test/ClassInvariantsTest.java" />
       <jump line="147" column="13" filename="$USER_HOME$/work/playcart/test/ClassInvariantsTest.java" />
       <jump line="42" column="32" filename="$USER_HOME$/work/playcart/app/controllers/cron/SalesforceSynchronizationController.java" />
@@ -571,6 +573,7 @@
       <jump line="192" column="19" filename="$USER_HOME$/work/playcart/test/cassandra/recpair/CassandraRecPairInterfaceTest.java" />
       <jump line="68" column="83" filename="$USER_HOME$/work/playcart/test/cassandra/recpair/CassandraRecPairInterfaceTest.java" />
       <jump line="214" column="32" filename="$USER_HOME$/work/playcart/test/cassandra/recpair/CassandraRecPairInterfaceTest.java" />
+      <jump line="48" column="13" filename="$USER_HOME$/work/playcart/test/controllers/cron/DeleteProductsNonPerformanceTests.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
