@@ -268,8 +268,12 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
-      <file name="$USER_HOME$/work/playcart/test/models/merchant/visit/CustomerSummaryTest.java" timestamp="1445958227404">
-        <mark key="'" line="116" column="22" />
+      <file name="$USER_HOME$/work/playcart/test/models/merchant/visit/CustomerSummaryTest.java" timestamp="1445962516544">
+        <mark key="'" line="91" column="62" />
+        <mark key="[" line="91" column="62" />
+        <mark key="]" line="91" column="62" />
+        <mark key="." line="91" column="62" />
+        <mark key="^" line="55" column="67" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/controllers/cron/CreateProductScoresController.java" timestamp="1445861209100">
         <mark key="'" line="110" column="0" />
@@ -407,8 +411,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="233" column="0" filename="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" />
-      <jump line="234" column="75" filename="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" />
       <jump line="236" column="18" filename="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" />
       <jump line="240" column="69" filename="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" />
       <jump line="48" column="18" filename="$USER_HOME$/work/playcart/app/services/smartly/client/models/Product.java" />
@@ -507,55 +509,57 @@
       <jump line="116" column="22" filename="$USER_HOME$/work/playcart/test/models/merchant/visit/CustomerSummaryTest.java" />
       <jump line="56" column="43" filename="$USER_HOME$/work/playcart/app/services/smartly/client/models/SmartlyFeed.java" />
       <jump line="133" column="15" filename="$USER_HOME$/work/playcart/app/services/smartly/client/models/SmartlyFeed.java" />
+      <jump line="55" column="62" filename="$USER_HOME$/work/playcart/test/models/merchant/visit/CustomerSummaryTest.java" />
+      <jump line="91" column="62" filename="$USER_HOME$/work/playcart/test/models/merchant/visit/CustomerSummaryTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>mapper</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>mapper</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxEQVRFX0ZPUk1BVFRFUlw+</text>
+        <text encoding="base64">XDxtYXBwZXJcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIERhdGVUaW1lWm9uZSBvcmlnaW5hbFRpbWVab25lOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>_</text>
+        <text>mapper</text>
       </register>
       <register name="2" type="4">
-        <text>E</text>
+        <text>mapper</text>
       </register>
       <register name="3" type="4">
-        <text>M</text>
+        <text>mapper</text>
       </register>
       <register name="4" type="4">
-        <text>I</text>
+        <text>_</text>
       </register>
       <register name="5" type="4">
-        <text>T</text>
+        <text>E</text>
       </register>
       <register name="6" type="4">
+        <text>M</text>
+      </register>
+      <register name="7" type="4">
+        <text>I</text>
+      </register>
+      <register name="8" type="4">
+        <text>T</text>
+      </register>
+      <register name="9" type="4">
         <text encoding="base64">ZGF0ZUZvcm1hdHRlciA=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">PDw8PDw8PCBIRUFECiAgICBwcml2YXRlIHN0YXRpYyBmaW5hbCBEYXRlVGltZUZvcm1hdHRlciBEQVRFX0ZPUk1BVFRFUiA9IERhdGVUaW1lRm9ybWF0LmZvclBhdHRlcm4oImQuTS55eXl5IGhoOm1tIikud2l0aFpvbmVVVEMoKTsKPT09PT09PQo=</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">Pj4+Pj4+PiBtYXN0ZXIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxEQVRFX0ZPUk1BVFRFUlw+</last-search>
+      <last-search encoding="base64">XDxtYXBwZXJcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxEQVRFX0ZPUk1BVFRFUlw+</last-pattern>
+      <last-pattern encoding="base64">XDxtYXBwZXJcPg==</last-pattern>
       <last-replace>p</last-replace>
       <last-substitute>span</last-substitute>
       <last-dir>1</last-dir>
@@ -563,7 +567,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxyZWR1Y2VyXD4=</entry>
         <entry encoding="base64">XDx3ZWVrbHlSZWNQYWlyc1w+</entry>
         <entry encoding="base64">XDxSZWNQYWlyXD4=</entry>
         <entry encoding="base64">XDxkYXRlQ2FsZW5kYXJcPg==</entry>
@@ -583,6 +586,7 @@
         <entry encoding="base64">XDxjcmVhdGVUaGlyZFw+</entry>
         <entry encoding="base64">XDxkYXRlRm9ybWF0dGVyXD4=</entry>
         <entry encoding="base64">XDxEQVRFX0ZPUk1BVFRFUlw+</entry>
+        <entry encoding="base64">XDxtYXBwZXJcPg==</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvLFxyL2c=</entry>
