@@ -268,6 +268,9 @@
         <mark key="]" line="35" column="0" />
         <mark key="." line="35" column="0" />
       </file>
+      <file name="$USER_HOME$/work/playcart/test/models/merchant/visit/CustomerSummaryTest.java" timestamp="1445958227404">
+        <mark key="'" line="116" column="22" />
+      </file>
       <file name="$USER_HOME$/work/playcart/app/controllers/cron/CreateProductScoresController.java" timestamp="1445861209100">
         <mark key="'" line="110" column="0" />
         <mark key="[" line="110" column="0" />
@@ -397,10 +400,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="207" column="44" filename="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" />
-      <jump line="287" column="44" filename="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" />
-      <jump line="206" column="77" filename="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" />
-      <jump line="169" column="117" filename="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" />
       <jump line="286" column="88" filename="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" />
       <jump line="285" column="36" filename="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" />
       <jump line="233" column="0" filename="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" />
@@ -497,6 +496,10 @@
       <jump line="39" column="32" filename="$USER_HOME$/work/playcart/test/LocalisationTest.java" />
       <jump line="15" column="17" filename="$USER_HOME$/work/playcart/test/LocalisationTest.java" />
       <jump line="40" column="59" filename="$USER_HOME$/work/playcart/test/LocalisationTest.java" />
+      <jump line="126" column="22" filename="$USER_HOME$/work/playcart/test/models/merchant/visit/CustomerSummaryTest.java" />
+      <jump line="82" column="18" filename="$USER_HOME$/work/playcart/test/models/merchant/visit/CustomerSummaryTest.java" />
+      <jump line="99" column="22" filename="$USER_HOME$/work/playcart/test/models/merchant/visit/CustomerSummaryTest.java" />
+      <jump line="116" column="22" filename="$USER_HOME$/work/playcart/test/models/merchant/visit/CustomerSummaryTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -506,7 +509,7 @@
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxyZWdleFw+</text>
+        <text encoding="base64">XDxjcmVhdGVUaGlyZFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIERhdGVUaW1lWm9uZSBvcmlnaW5hbFRpbWVab25lOwo=</text>
@@ -543,9 +546,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxyZWdleFw+</last-search>
+      <last-search encoding="base64">XDxjcmVhdGVUaGlyZFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxyZWdleFw+</last-pattern>
+      <last-pattern encoding="base64">XDxjcmVhdGVUaGlyZFw+</last-pattern>
       <last-replace>p</last-replace>
       <last-substitute>span</last-substitute>
       <last-dir>1</last-dir>
@@ -553,7 +556,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0b3RhbFJlY3BhaXJcPg==</entry>
         <entry encoding="base64">XDxsYXJnZXN0UmVjcGFpclw+</entry>
         <entry encoding="base64">XDxxdWVyeVBhaXJzQnlTb3VyY2VDb25jdXJyZW50XD4=</entry>
         <entry encoding="base64">XDxyZWR1Y2VyXD4=</entry>
@@ -573,6 +575,7 @@
         <entry>brand</entry>
         <entry encoding="base64">XDxwYXR0ZXJuXD4=</entry>
         <entry encoding="base64">XDxyZWdleFw+</entry>
+        <entry encoding="base64">XDxjcmVhdGVUaGlyZFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvLFxyL2c=</entry>
