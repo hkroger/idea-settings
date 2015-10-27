@@ -72,6 +72,13 @@
       <file name="$USER_HOME$/work/playcart/app/controllers/extras/shopify/ShopifyOAuthController.java" timestamp="1445596647446">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/playcart/test/services/billing/BillingStatisticsServiceTest.java" timestamp="1445951737184">
+        <mark key="'" line="105" column="35" />
+        <mark key="[" line="114" column="50" />
+        <mark key="]" line="115" column="47" />
+        <mark key="^" line="115" column="47" />
+        <mark key="." line="115" column="47" />
+      </file>
       <file name="$USER_HOME$/work/playcart/app/controllers/cron/DeleteOldProductsController.java" timestamp="1445858211244">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="0" />
@@ -116,9 +123,9 @@
       </file>
       <file name="$USER_HOME$/work/playcart/conf/messages.es" timestamp="1445948737003">
         <mark key="[" line="1777" column="63" />
-        <mark key="]" line="1832" column="63" />
-        <mark key="^" line="1832" column="63" />
-        <mark key="." line="1832" column="63" />
+        <mark key="]" line="1777" column="63" />
+        <mark key="^" line="1777" column="63" />
+        <mark key="." line="1777" column="63" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/jobs/statscreation/RecreateStatsJob.java" timestamp="1445852043922">
         <mark key="[" line="13" column="14" />
@@ -376,18 +383,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="78" column="0" filename="$USER_HOME$/work/playcart/app/controllers/cron/IntercomSyncController.java" />
-      <jump line="52" column="34" filename="$USER_HOME$/work/playcart/app/services/smartly/client/models/SmartlyFeed.java" />
-      <jump line="12" column="0" filename="$USER_HOME$/work/playcart/conf/application.conf" />
-      <jump line="779" column="16" filename="$USER_HOME$/work/playcart/app/services/smartly/client/models/Campaign.java" />
-      <jump line="821" column="16" filename="$USER_HOME$/work/playcart/app/services/smartly/client/models/Campaign.java" />
-      <jump line="192" column="33" filename="$USER_HOME$/work/playcart/app/services/smartly/client/models/Campaign.java" />
-      <jump line="378" column="27" filename="$USER_HOME$/work/playcart/app/controllers/admin/merchant/SmartlyAdverts.java" />
-      <jump line="94" column="2" filename="$USER_HOME$/work/playcart/app/controllers/admin/merchant/SmartlyAdverts.java" />
-      <jump line="348" column="22" filename="$USER_HOME$/work/playcart/app/controllers/admin/merchant/SmartlyAdverts.java" />
-      <jump line="358" column="26" filename="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" />
-      <jump line="248" column="12" filename="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" />
-      <jump line="193" column="25" filename="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" />
       <jump line="198" column="71" filename="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" />
       <jump line="232" column="33" filename="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" />
       <jump line="235" column="39" filename="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" />
@@ -476,55 +471,67 @@
       <jump line="117" column="8" filename="$USER_HOME$/work/playcart/app/jobs/CouponsFileLoaderJob.java" />
       <jump line="60" column="34" filename="$USER_HOME$/work/playcart/app/jobs/CouponsFileLoaderJob.java" />
       <jump line="66" column="30" filename="$USER_HOME$/work/playcart/app/controllers/admin/merchant/EmailPlansCRUD.java" />
+      <jump line="41" column="13" filename="$USER_HOME$/work/playcart/test/services/billing/BillingStatisticsServiceTest.java" />
+      <jump line="47" column="14" filename="$USER_HOME$/work/playcart/test/services/billing/BillingStatisticsServiceTest.java" />
+      <jump line="71" column="8" filename="$USER_HOME$/work/playcart/test/services/billing/BillingStatisticsServiceTest.java" />
+      <jump line="149" column="8" filename="$USER_HOME$/work/playcart/test/services/billing/BillingStatisticsServiceTest.java" />
+      <jump line="209" column="36" filename="$USER_HOME$/work/playcart/test/services/billing/BillingStatisticsServiceTest.java" />
+      <jump line="64" column="19" filename="$USER_HOME$/work/playcart/test/services/billing/BillingStatisticsServiceTest.java" />
+      <jump line="147" column="21" filename="$USER_HOME$/work/playcart/test/services/billing/BillingStatisticsServiceTest.java" />
+      <jump line="145" column="45" filename="$USER_HOME$/work/playcart/test/services/billing/BillingStatisticsServiceTest.java" />
+      <jump line="125" column="21" filename="$USER_HOME$/work/playcart/test/services/billing/BillingStatisticsServiceTest.java" />
+      <jump line="123" column="51" filename="$USER_HOME$/work/playcart/test/services/billing/BillingStatisticsServiceTest.java" />
+      <jump line="115" column="21" filename="$USER_HOME$/work/playcart/test/services/billing/BillingStatisticsServiceTest.java" />
+      <jump line="100" column="35" filename="$USER_HOME$/work/playcart/test/services/billing/BillingStatisticsServiceTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>setConfiguration</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>setConfiguration</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxCYWRSZXF1ZXN0XD4=</text>
+        <text encoding="base64">XDxmYXJQYXN0XD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMaXN0PFJlY1BhaXI+IHJlcyA9IHJlY3BhaXJEQU8uZmluZEJ5VHlwZSgiYnBicCIsIEFycmF5cy5hc0xpc3QoInByb2R1Y3RhIiwgInByb2R1Y3RiIikpOwo=</text>
+        <text encoding="base64">ICAgIERhdGVUaW1lWm9uZSBvcmlnaW5hbFRpbWVab25lOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>setConfiguration</text>
+        <text>e</text>
       </register>
       <register name="2" type="4">
+        <text>t</text>
+      </register>
+      <register name="3" type="4">
+        <text>a</text>
+      </register>
+      <register name="4" type="4">
+        <text>D</text>
+      </register>
+      <register name="5" type="4">
+        <text>setConfiguration</text>
+      </register>
+      <register name="6" type="4">
         <text>.</text>
       </register>
-      <register name="3" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICBzM0NsaWVudC5zZXRDb25maWd1cmF0aW9uKGNvbmZpZyk7Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvL2Fzc2VydEVxdWFscyh0b3RhbFJlY3BhaXIsIHRvdGFsU3VtbWFyeSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAvL2Fzc2VydEVxdWFscyh0b3RhbFJlY3BhaXIsIHRvdGFsU3VtbWFyeSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHModHJpbVNpemUuaW50VmFsdWUoKSwgc3VtbWFyeUdyb3Vwcy5nZXQoInByb2R1Y3RiIikuaW50VmFsdWUoKSk7Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhc3NlcnRFcXVhbHModHJpbVNpemUuaW50VmFsdWUoKSwgc3VtbWFyeUdyb3Vwcy5nZXQoInByb2R1Y3RhIikuaW50VmFsdWUoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAvL2Fzc2VydEVxdWFscyh0b3RhbFJlY3BhaXIsIHRvdGFsU3VtbWFyeSk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxCYWRSZXF1ZXN0XD4=</last-search>
+      <last-search encoding="base64">XDxmYXJQYXN0XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxCYWRSZXF1ZXN0XD4=</last-pattern>
+      <last-pattern encoding="base64">XDxmYXJQYXN0XD4=</last-pattern>
       <last-replace>p</last-replace>
       <last-substitute>span</last-substitute>
       <last-dir>1</last-dir>
@@ -532,7 +539,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx0cmltU2l6ZVw+</entry>
         <entry encoding="base64">XDxhZGRcPg==</entry>
         <entry encoding="base64">XDxzbGVlcFw+</entry>
         <entry encoding="base64">XDxwYWlyQ291bnRzXD4=</entry>
@@ -552,6 +558,7 @@
         <entry>ClientConfiguration</entry>
         <entry encoding="base64">XDxzM0NsaWVudFw+</entry>
         <entry encoding="base64">XDxCYWRSZXF1ZXN0XD4=</entry>
+        <entry encoding="base64">XDxmYXJQYXN0XD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvLFxyL2c=</entry>
