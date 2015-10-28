@@ -86,6 +86,13 @@
       <file name="$USER_HOME$/work/playcart/app/controllers/extras/shopify/ShopifyOAuthController.java" timestamp="1445596647446">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/work/playcart/test/services/billing/BillingStatisticsServiceTest.java" timestamp="1445951737184">
+        <mark key="'" line="105" column="35" />
+        <mark key="[" line="114" column="50" />
+        <mark key="]" line="115" column="47" />
+        <mark key="^" line="115" column="47" />
+        <mark key="." line="115" column="47" />
+      </file>
       <file name="$USER_HOME$/work/playcart/app/controllers/cron/DeleteOldProductsController.java" timestamp="1445858211244">
         <mark key="[" line="67" column="0" />
         <mark key="]" line="67" column="0" />
@@ -277,10 +284,7 @@
       </file>
       <file name="$USER_HOME$/work/playcart/app/cassandra/recpair/WeeklyRecPairReducer.java" timestamp="1445939101218" />
       <file name="$USER_HOME$/work/playcart/test/utils/ProductVMTest.java" timestamp="1446023642448">
-        <mark key="'" line="103" column="7" />
-        <mark key="[" line="80" column="68" />
-        <mark key="]" line="80" column="68" />
-        <mark key="." line="80" column="68" />
+        <mark key="'" line="108" column="7" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/models/adnetwork/AdvertSlot.java" timestamp="1445599075682">
         <mark key="[" line="115" column="11" />
@@ -433,7 +437,8 @@
       <file name="$USER_HOME$/work/playcart/app/utils/MoneyFormatter.java" timestamp="1446023443141">
         <mark key="'" line="52" column="68" />
       </file>
-      <file name="$USER_HOME$/work/playcart/test/EmailSendingTest.java" timestamp="1445855840082">
+      <file name="$USER_HOME$/work/playcart/test/EmailSendingTest.java" timestamp="1446029305323">
+        <mark key="'" line="820" column="41" />
         <mark key="[" line="247" column="84" />
         <mark key="]" line="247" column="59" />
         <mark key="^" line="247" column="67" />
@@ -497,7 +502,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="83" column="19" filename="$USER_HOME$/work/playcart/app/models/merchant/product/Variant.java" />
       <jump line="347" column="99" filename="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" />
       <jump line="276" column="106" filename="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" />
       <jump line="288" column="85" filename="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" />
@@ -597,6 +601,7 @@
       <jump line="19" column="34" filename="$USER_HOME$/work/playcart/app/utils/velocity/PriceVM.java" />
       <jump line="55" column="29" filename="$USER_HOME$/work/playcart/app/utils/MoneyFormatter.java" />
       <jump line="52" column="68" filename="$USER_HOME$/work/playcart/app/utils/MoneyFormatter.java" />
+      <jump line="820" column="41" filename="$USER_HOME$/work/playcart/test/EmailSendingTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -606,7 +611,7 @@
         <text>V</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxmb3JtYXRcPg==</text>
+        <text encoding="base64">XDxkZWxheU1pbnV0ZXNBZnRlckxhc3RFdmVudFw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIENyb25JZCBpcyBub3QgYXZhaWxhYmxlIGluIG5vcm1hbCBjb250cm9sbGVycywgdGhlcmVmb3JlIHdlIHVzZSBqdXN0IGNsYXNzIG5hbWUgaGVyZS4K</text>
@@ -643,9 +648,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxmb3JtYXRcPg==</last-search>
+      <last-search encoding="base64">XDxkZWxheU1pbnV0ZXNBZnRlckxhc3RFdmVudFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxmb3JtYXRcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxkZWxheU1pbnV0ZXNBZnRlckxhc3RFdmVudFw+</last-pattern>
       <last-replace>p</last-replace>
       <last-substitute>span</last-substitute>
       <last-dir>1</last-dir>
@@ -653,7 +658,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYXRlQ2FsZW5kYXJcPg==</entry>
         <entry encoding="base64">XDxhc3NlcnRFcXVhbHNcPg==</entry>
         <entry encoding="base64">XDxzY29yZVw+</entry>
         <entry>ClientConfiguration</entry>
@@ -673,6 +677,7 @@
         <entry encoding="base64">XDxtYXBwZXJcPg==</entry>
         <entry encoding="base64">XDxtb25leUZvcm1hdHRlclw+</entry>
         <entry encoding="base64">XDxmb3JtYXRcPg==</entry>
+        <entry encoding="base64">XDxkZWxheU1pbnV0ZXNBZnRlckxhc3RFdmVudFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvLFxyL2c=</entry>
