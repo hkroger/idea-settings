@@ -124,11 +124,6 @@
         <mark key="^" line="13" column="22" />
         <mark key="." line="13" column="22" />
       </file>
-      <file name="$USER_HOME$/work/playcart/app/views/admin/merchant/Statistics/index.html" timestamp="1446018904069">
-        <mark key="[" line="14" column="61" />
-        <mark key="]" line="14" column="61" />
-        <mark key="." line="14" column="61" />
-      </file>
       <file name="$USER_HOME$/work/playcart/app/controllers/cron/UpdateAdnetworkScoresController.java" timestamp="1445859583449">
         <mark key="[" line="95" column="0" />
         <mark key="]" line="95" column="0" />
@@ -252,11 +247,8 @@
       <file name="$USER_HOME$/work/playcart/app/models/admin/check/RequiredForSaleChannelCheck.java" timestamp="1445596883828">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/playcart/conf/messages" timestamp="1446035877469">
-        <mark key="[" line="1400" column="57" />
-        <mark key="]" line="1400" column="60" />
-        <mark key="." line="1400" column="60" />
-        <mark key="^" line="1400" column="60" />
+      <file name="$USER_HOME$/work/playcart/conf/messages" timestamp="1446038347702">
+        <mark key="'" line="2281" column="61" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/jobs/billing/CreateBillingEstimatesJob.java" timestamp="1445851110606">
         <mark key="[" line="35" column="24" />
@@ -331,6 +323,13 @@
       <file name="$USER_HOME$/work/playcart/test/services/extras/platforms/PlatformAccountCreationTest.java" timestamp="1445544412549">
         <mark key="'" line="72" column="51" />
       </file>
+      <file name="$USER_HOME$/work/playcart/conf/application.conf" timestamp="1446037806914">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="367" column="29" />
+        <mark key="]" line="367" column="29" />
+        <mark key="^" line="367" column="35" />
+        <mark key="." line="367" column="29" />
+      </file>
       <file name="$USER_HOME$/work/playcart/test/bug/Bug42NPEinStringVM.java" timestamp="1445599356734">
         <mark key="'" line="49" column="4" />
       </file>
@@ -360,8 +359,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="171" column="33" filename="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" />
-      <jump line="37" column="13" filename="$USER_HOME$/work/playcart/test/cassandra/recpair/CassandraRecPairInterfaceTest.java" />
       <jump line="177" column="43" filename="$USER_HOME$/work/playcart/test/cassandra/recpair/CassandraRecPairInterfaceTest.java" />
       <jump line="58" column="15" filename="$USER_HOME$/work/playcart/app/models/admin/FeatureConfiguration.java" />
       <jump line="372" column="67" filename="$USER_HOME$/work/playcart/app/cassandra/recpair/ReducedRecPairDAO.java" />
@@ -460,55 +457,57 @@
       <jump line="67" column="18" filename="$USER_HOME$/work/playcart/app/models/admin/VerifiedEmail.java" />
       <jump line="264" column="21" filename="$USER_HOME$/work/playcart/app/models/admin/VerifiedEmail.java" />
       <jump line="337" column="27" filename="$USER_HOME$/work/playcart/app/utils/EmailUtils.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/work/playcart/conf/application.conf" />
+      <jump line="2284" column="61" filename="$USER_HOME$/work/playcart/conf/messages" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Use mockup data</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">YWRtaW4ubWVyY2hhbnRzLmVtYWlsLnBsYW5zLnNlbmQucHJldmlld01vZGUubW9jay50aXRsZT1Nb2NrCmFkbWluLm1lcmNoYW50cy5lbWFpbC5wbGFucy5zZW5kLnByZXZpZXdNb2RlLnJhbmRvbS50aXRsZT1SYW5kb20gQ3VzdG9tZXIKYWRtaW4ubWVyY2hhbnRzLmVtYWlsLnBsYW5zLnNlbmQucHJldmlld01vZGUuZXhpc3RpbmcudGl0bGU9RXhpc3RpbmcgQ3VzdG9tZXIK</text>
       </register>
       <register name="-" type="4">
-        <text>Use mockup data</text>
+        <text>l</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxidWlsZFByZXZpZXdcPg==</text>
+        <text>EXISTING_CUSTOMER</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIENyb25JZCBpcyBub3QgYXZhaWxhYmxlIGluIG5vcm1hbCBjb250cm9sbGVycywgdGhlcmVmb3JlIHdlIHVzZSBqdXN0IGNsYXNzIG5hbWUgaGVyZS4K</text>
       </register>
-      <register name="1" type="4">
-        <text>Use mockup data</text>
-      </register>
-      <register name="2" type="2">
+      <register name="1" type="2">
         <text encoding="base64">YWRtaW4ubWVyY2hhbnRzLmVtYWlsLnBsYW5zLnNlbmQucHJldmlld01vZGUubW9jay50aXRsZT1Nb2NrCmFkbWluLm1lcmNoYW50cy5lbWFpbC5wbGFucy5zZW5kLnByZXZpZXdNb2RlLnJhbmRvbS50aXRsZT1SYW5kb20gQ3VzdG9tZXIKYWRtaW4ubWVyY2hhbnRzLmVtYWlsLnBsYW5zLnNlbmQucHJldmlld01vZGUuZXhpc3RpbmcudGl0bGU9RXhpc3RpbmcgQ3VzdG9tZXIK</text>
       </register>
+      <register name="2" type="4">
+        <text>l</text>
+      </register>
       <register name="3" type="4">
+        <text>Use mockup data</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">YWRtaW4ubWVyY2hhbnRzLmVtYWlsLnBsYW5zLnNlbmQucHJldmlld01vZGUubW9jay50aXRsZT1Nb2NrCmFkbWluLm1lcmNoYW50cy5lbWFpbC5wbGFucy5zZW5kLnByZXZpZXdNb2RlLnJhbmRvbS50aXRsZT1SYW5kb20gQ3VzdG9tZXIKYWRtaW4ubWVyY2hhbnRzLmVtYWlsLnBsYW5zLnNlbmQucHJldmlld01vZGUuZXhpc3RpbmcudGl0bGU9RXhpc3RpbmcgQ3VzdG9tZXIK</text>
+      </register>
+      <register name="5" type="4">
         <text>V</text>
       </register>
-      <register name="4" type="4">
+      <register name="6" type="4">
         <text>mappings</text>
       </register>
-      <register name="5" type="2">
+      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
-      </register>
-      <register name="6" type="4">
-        <text>mapper</text>
-      </register>
-      <register name="7" type="4">
-        <text>mapper</text>
       </register>
       <register name="8" type="4">
         <text>mapper</text>
       </register>
       <register name="9" type="4">
-        <text>_</text>
+        <text>mapper</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxidWlsZFByZXZpZXdcPg==</last-search>
+      <last-search>EXISTING_CUSTOMER</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxidWlsZFByZXZpZXdcPg==</last-pattern>
+      <last-pattern>EXISTING_CUSTOMER</last-pattern>
       <last-replace>p</last-replace>
       <last-substitute>span</last-substitute>
       <last-dir>1</last-dir>
@@ -516,8 +515,6 @@
     </search>
     <history>
       <history-search>
-        <entry>ClientConfiguration</entry>
-        <entry encoding="base64">XDxzM0NsaWVudFw+</entry>
         <entry encoding="base64">XDxCYWRSZXF1ZXN0XD4=</entry>
         <entry encoding="base64">XDxmYXJQYXN0XD4=</entry>
         <entry encoding="base64">XDxleHBlY3RlZEZ1bGxEb2N1bWVudFw+</entry>
@@ -536,6 +533,8 @@
         <entry encoding="base64">XDxkZWxheU1pbnV0ZXNBZnRlckxhc3RFdmVudFw+</entry>
         <entry encoding="base64">XDxvd25lZEJ5XD4=</entry>
         <entry encoding="base64">XDxidWlsZFByZXZpZXdcPg==</entry>
+        <entry>mandrill</entry>
+        <entry>EXISTING_CUSTOMER</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvLFxyL2c=</entry>
