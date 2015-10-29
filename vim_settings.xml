@@ -321,10 +321,6 @@
       </file>
       <file name="$USER_HOME$/work/playcart/conf/application.conf" timestamp="1446037806914">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="368" column="29" />
-        <mark key="]" line="368" column="29" />
-        <mark key="^" line="368" column="35" />
-        <mark key="." line="368" column="29" />
       </file>
       <file name="$USER_HOME$/work/playcart/test/bug/Bug42NPEinStringVM.java" timestamp="1445599356734">
         <mark key="'" line="49" column="4" />
