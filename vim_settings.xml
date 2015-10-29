@@ -131,6 +131,7 @@
         <mark key="^" line="13" column="22" />
         <mark key="." line="13" column="22" />
       </file>
+      <file name="$USER_HOME$/work/playcart/app/services/smartly/SmartlyAdvertSyncerJob.java" timestamp="1446131628690" />
       <file name="$USER_HOME$/work/playcart/app/views/admin/merchant/SmartlyAdverts/show.html" timestamp="1445520447566">
         <mark key="'" line="39" column="23" />
         <mark key="[" line="165" column="159" />
@@ -274,12 +275,6 @@
       </file>
       <file name="$USER_HOME$/work/playcart/app/models/admin/check/RequiredForSaleChannelCheck.java" timestamp="1445596883828">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/playcart/conf/messages" timestamp="1446128405473">
-        <mark key="[" line="777" column="67" />
-        <mark key="]" line="776" column="72" />
-        <mark key="^" line="776" column="72" />
-        <mark key="." line="776" column="72" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/jobs/billing/CreateBillingEstimatesJob.java" timestamp="1445851110606">
         <mark key="[" line="35" column="24" />
