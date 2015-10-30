@@ -17,7 +17,7 @@
       <file name="$USER_HOME$/work/playcart/conf/routes" timestamp="1446033479928">
         <mark key="'" line="206" column="14" />
       </file>
-      <file name="$USER_HOME$/work/playcart/test/controllers/cron/DeleteProductsNonPerformanceTests.java" timestamp="1446194140894">
+      <file name="$USER_HOME$/work/playcart/test/controllers/cron/DeleteProductsNonPerformanceTests.java" timestamp="1446194636157">
         <mark key="'" line="48" column="13" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/services/smartly/client/models/Campaign.java" timestamp="1445953582062">
@@ -37,13 +37,6 @@
       </file>
       <file name="$USER_HOME$/work/playcart/app/controllers/extras/shopify/ShopifyOAuthController.java" timestamp="1445596647446">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/playcart/test/services/billing/BillingStatisticsServiceTest.java" timestamp="1445951737184">
-        <mark key="'" line="105" column="35" />
-        <mark key="[" line="114" column="50" />
-        <mark key="]" line="115" column="47" />
-        <mark key="^" line="115" column="47" />
-        <mark key="." line="115" column="47" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/controllers/extras/shopify/ShopifyWebhookController.java" timestamp="1445596656190">
         <mark key="'" line="0" column="0" />
@@ -79,14 +72,18 @@
         <mark key="." line="165" column="159" />
         <mark key="^" line="170" column="31" />
       </file>
+      <file name="$USER_HOME$/work/playcart/app/jobs/productcrawler/DeleteOldProductsJob.java" timestamp="1446194929632">
+        <mark key="'" line="77" column="36" />
+      </file>
+      <file name="$USER_HOME$/work/playcart/app/jobs/productcrawler/tasking/DeleteProductTask.java" timestamp="1446195002573" />
       <file name="$USER_HOME$/bin/play-1.2.6.1/framework/lib/junit-4.10.jar!/org/junit/Assert.class" timestamp="1445939970231">
         <mark key="'" line="164" column="18" />
       </file>
       <file name="$USER_HOME$/work/playcart/test/services/smartly/client/SmartlyAPIClientTest.java" timestamp="1446191091128" />
       <file name="$USER_HOME$/work/playcart/app/models/ads/facebook/SmartlyAccount.java" timestamp="1446193197357" />
       <file name="$USER_HOME$/work/playcart/app/cassandra/recpair/WeeklyRecPair.java" timestamp="1445939529586" />
-      <file name="$USER_HOME$/work/playcart/app/services/product/ProductDAO.java" timestamp="1445268527597">
-        <mark key="'" line="42" column="9" />
+      <file name="$USER_HOME$/work/playcart/app/services/product/ProductDAO.java" timestamp="1446195147049">
+        <mark key="'" line="64" column="22" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/controllers/extras/platforms/PlatformAuthController.java" timestamp="1445590931929">
         <mark key="'" line="71" column="32" />
@@ -156,13 +153,6 @@
       <file name="$USER_HOME$/work/playcart/app/models/admin/VerifiedEmail.java" timestamp="1446032238551">
         <mark key="'" line="264" column="21" />
       </file>
-      <file name="$USER_HOME$/work/playcart/test/EmailSendingTest.java" timestamp="1446029305323">
-        <mark key="'" line="820" column="41" />
-        <mark key="[" line="247" column="84" />
-        <mark key="]" line="247" column="59" />
-        <mark key="^" line="247" column="67" />
-        <mark key="." line="247" column="59" />
-      </file>
       <file name="$USER_HOME$/work/playcart/app/models/merchant/product/rec/RecPair.java" timestamp="1445939412880">
         <mark key="'" line="31" column="13" />
       </file>
@@ -186,9 +176,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="146" column="33" filename="$USER_HOME$/work/playcart/test/cassandra/recpair/CassandraRecPairInterfaceTest.java" />
-      <jump line="160" column="33" filename="$USER_HOME$/work/playcart/test/cassandra/recpair/CassandraRecPairInterfaceTest.java" />
-      <jump line="86" column="19" filename="$USER_HOME$/work/playcart/app/models/merchant/product/rec/RecPair.java" />
       <jump line="264" column="25" filename="$USER_HOME$/work/playcart/app/cassandra/recpair/ReducedRecPairDAO.java" />
       <jump line="246" column="25" filename="$USER_HOME$/work/playcart/app/cassandra/recpair/ReducedRecPairDAO.java" />
       <jump line="253" column="25" filename="$USER_HOME$/work/playcart/app/cassandra/recpair/ReducedRecPairDAO.java" />
@@ -286,6 +273,9 @@
       <jump line="263" column="28" filename="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" />
       <jump line="264" column="90" filename="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" />
       <jump line="73" column="0" filename="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" />
+      <jump line="137" column="13" filename="$USER_HOME$/work/playcart/app/jobs/productcrawler/DeleteOldProductsJob.java" />
+      <jump line="77" column="36" filename="$USER_HOME$/work/playcart/app/jobs/productcrawler/DeleteOldProductsJob.java" />
+      <jump line="64" column="22" filename="$USER_HOME$/work/playcart/app/services/product/ProductDAO.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -295,7 +285,7 @@
         <text>get(RandomUtils.nextInt(productVariants.size()));</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxNQVhfVFJJRVNcPg==</text>
+        <text encoding="base64">XDxkZWxldGVPbGRQcm9kdWN0c0l0ZXJhdG9yXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIC8qKgogICAgICogVGhpcyBpcyB0aGUgbWF4aW11bSByYW5rIGluIHRoZSByZS10YXJnZXRpbmcgZmVlZAogICAgICovCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIGludCBNQVhfUkFOS19JTl9SRVRBUkdFVElOR19GRUVEPSAxMDA7Cg==</text>
@@ -332,9 +322,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxNQVhfVFJJRVNcPg==</last-search>
+      <last-search encoding="base64">XDxkZWxldGVPbGRQcm9kdWN0c0l0ZXJhdG9yXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxNQVhfVFJJRVNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxkZWxldGVPbGRQcm9kdWN0c0l0ZXJhdG9yXD4=</last-pattern>
       <last-replace>p</last-replace>
       <last-substitute>span</last-substitute>
       <last-dir>1</last-dir>
@@ -342,9 +332,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxleHBlY3RlZEZ1bGxEb2N1bWVudFw+</entry>
-        <entry encoding="base64">XDxoaXRcPg==</entry>
-        <entry>list</entry>
         <entry>name</entry>
         <entry>brand</entry>
         <entry encoding="base64">XDxwYXR0ZXJuXD4=</entry>
@@ -362,6 +349,9 @@
         <entry>EXISTING_CUSTOMER</entry>
         <entry>Math.min</entry>
         <entry encoding="base64">XDxNQVhfVFJJRVNcPg==</entry>
+        <entry encoding="base64">XDxjcmVhdGVQcm9kdWNlclRhc2tzXD4=</entry>
+        <entry encoding="base64">XDxVTkFWQUlMQUJMRV9TVEFUVVNFU1w+</entry>
+        <entry encoding="base64">XDxkZWxldGVPbGRQcm9kdWN0c0l0ZXJhdG9yXD4=</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvLFxyL2c=</entry>
