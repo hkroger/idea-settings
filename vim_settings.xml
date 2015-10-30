@@ -172,6 +172,7 @@
       <file name="$USER_HOME$/bin/play-1.2.6.1/framework/lib/junit-4.10.jar!/org/junit/Assert.class" timestamp="1445939970231">
         <mark key="'" line="164" column="18" />
       </file>
+      <file name="$USER_HOME$/work/playcart/test/services/smartly/client/SmartlyAPIClientTest.java" timestamp="1446189424892" />
       <file name="$USER_HOME$/work/playcart/app/jobs/emailsending/SendEmailsJob.java" timestamp="1445851091508">
         <mark key="[" line="45" column="97" />
         <mark key="]" line="45" column="80" />
