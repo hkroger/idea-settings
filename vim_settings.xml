@@ -239,6 +239,9 @@
         <mark key="^" line="66" column="59" />
         <mark key="." line="91" column="46" />
       </file>
+      <file name="$USER_HOME$/work/playcart/test/services/smartly/models/AggregateStatsTest.java" timestamp="1446223252954">
+        <mark key="'" line="25" column="13" />
+      </file>
       <file name="$USER_HOME$/work/playcart/app/services/extras/bigcommerce/BigcommerceHistoryImportJob.java" timestamp="1445851798074">
         <mark key="[" line="71" column="56" />
         <mark key="]" line="72" column="32" />
@@ -591,7 +594,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="196" column="40" filename="$USER_HOME$/work/playcart/test/cassandra/recpair/CassandraRecPairInterfaceTest.java" />
       <jump line="230" column="23" filename="$USER_HOME$/work/playcart/test/cassandra/recpair/CassandraRecPairInterfaceTest.java" />
       <jump line="182" column="24" filename="$USER_HOME$/work/playcart/test/cassandra/recpair/CassandraRecPairInterfaceTest.java" />
       <jump line="170" column="15" filename="$USER_HOME$/work/playcart/test/cassandra/recpair/CassandraRecPairInterfaceTest.java" />
@@ -691,6 +693,7 @@
       <jump line="113" column="20" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyService.java" />
       <jump line="94" column="16" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyService.java" />
       <jump line="96" column="18" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyService.java" />
+      <jump line="25" column="13" filename="$USER_HOME$/work/playcart/test/services/smartly/models/AggregateStatsTest.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
