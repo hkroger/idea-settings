@@ -10,12 +10,6 @@
         <mark key="^" line="124" column="23" />
         <mark key="." line="301" column="0" />
       </file>
-      <file name="$USER_HOME$/work/playcart/test/ProductScoresTest.java" timestamp="1445856643169">
-        <mark key="[" line="344" column="68" />
-        <mark key="]" line="298" column="75" />
-        <mark key="^" line="298" column="75" />
-        <mark key="." line="298" column="75" />
-      </file>
       <file name="$USER_HOME$/work/playcart/app/utils/EmailUtils.java" timestamp="1446033001759">
         <mark key="'" line="337" column="27" />
       </file>
@@ -41,24 +35,6 @@
       <file name="$USER_HOME$/work/playcart/app/cassandra/aggregatedVisit/AggregatedVisitDAO.java" timestamp="1445433008725">
         <mark key="'" line="161" column="29" />
       </file>
-      <file name="$USER_HOME$/work/playcart/app/jobs/billing/CreateBillingEstimatesTask.java" timestamp="1445850965543">
-        <mark key="[" line="54" column="142" />
-        <mark key="]" line="54" column="159" />
-        <mark key="^" line="54" column="159" />
-        <mark key="." line="54" column="159" />
-      </file>
-      <file name="$USER_HOME$/work/playcart/app/controllers/cron/SendMailController.java" timestamp="1445859513655">
-        <mark key="[" line="103" column="0" />
-        <mark key="]" line="103" column="0" />
-        <mark key="^" line="55" column="31" />
-        <mark key="." line="103" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/playcart/test/services/extras/DefaultHistoryImportJobTest.java" timestamp="1445850863174">
-        <mark key="[" line="130" column="41" />
-        <mark key="]" line="130" column="51" />
-        <mark key="^" line="130" column="51" />
-        <mark key="." line="130" column="51" />
-      </file>
       <file name="$USER_HOME$/work/playcart/app/controllers/extras/shopify/ShopifyOAuthController.java" timestamp="1445596647446">
         <mark key="'" line="0" column="0" />
       </file>
@@ -68,12 +44,6 @@
         <mark key="]" line="115" column="47" />
         <mark key="^" line="115" column="47" />
         <mark key="." line="115" column="47" />
-      </file>
-      <file name="$USER_HOME$/work/playcart/app/controllers/cron/DeleteOldProductsController.java" timestamp="1445858211244">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-        <mark key="^" line="29" column="32" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/controllers/extras/shopify/ShopifyWebhookController.java" timestamp="1445596656190">
         <mark key="'" line="0" column="0" />
@@ -91,12 +61,6 @@
       <file name="$USER_HOME$/work/playcart/app/services/crm/models/SalesforceEntity.java" timestamp="1445597094249">
         <mark key="'" line="43" column="0" />
       </file>
-      <file name="$USER_HOME$/work/playcart/test/models/merchant/product/rec/RALastViewedRelatedTest.java" timestamp="1445856681132">
-        <mark key="[" line="92" column="80" />
-        <mark key="]" line="92" column="72" />
-        <mark key="^" line="92" column="70" />
-        <mark key="." line="92" column="72" />
-      </file>
       <file name="$USER_HOME$/work/playcart/app/views/admin/merchant/FromEmailAddresses/show.html" timestamp="1446032043953" />
       <file name="$USER_HOME$/work/playcart/app/utils/VelocityHelper.java" timestamp="1445597112907">
         <mark key="'" line="51" column="8" />
@@ -104,32 +68,8 @@
       <file name="$USER_HOME$/work/playcart/app/services/extras/bigcommerce/BigcommerceStoreService.java" timestamp="1445589484576">
         <mark key="'" line="52" column="33" />
       </file>
-      <file name="$USER_HOME$/work/playcart/app/services/smartly/client/models/FacebookStatus.java" timestamp="1445421924965">
-        <mark key="[" line="6" column="3" />
-        <mark key="]" line="6" column="5" />
-        <mark key="^" line="6" column="5" />
-        <mark key="." line="6" column="5" />
-      </file>
-      <file name="$USER_HOME$/work/playcart/modules/casino-1.1/app/casino/RegistrationMailer.java" timestamp="1445599815853">
-        <mark key="[" line="15" column="8" />
-        <mark key="]" line="15" column="20" />
-        <mark key="^" line="15" column="20" />
-        <mark key="." line="15" column="20" />
-      </file>
       <file name="$USER_HOME$/work/playcart/app/utils/velocity/PriceVM.java" timestamp="1446023581209">
         <mark key="'" line="19" column="34" />
-      </file>
-      <file name="$USER_HOME$/work/playcart/conf/messages.es" timestamp="1445948737003">
-        <mark key="[" line="1777" column="63" />
-        <mark key="]" line="1777" column="63" />
-        <mark key="^" line="1777" column="63" />
-        <mark key="." line="1777" column="63" />
-      </file>
-      <file name="$USER_HOME$/work/playcart/app/jobs/statscreation/RecreateStatsJob.java" timestamp="1445852043922">
-        <mark key="[" line="13" column="14" />
-        <mark key="]" line="13" column="22" />
-        <mark key="^" line="13" column="22" />
-        <mark key="." line="13" column="22" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/services/smartly/SmartlyAdvertSyncerJob.java" timestamp="1446131628690" />
       <file name="$USER_HOME$/work/playcart/app/views/admin/merchant/SmartlyAdverts/show.html" timestamp="1445520447566">
@@ -139,61 +79,14 @@
         <mark key="." line="165" column="159" />
         <mark key="^" line="170" column="31" />
       </file>
-      <file name="$USER_HOME$/work/playcart/app/controllers/cron/UpdateAdnetworkScoresController.java" timestamp="1445859583449">
-        <mark key="[" line="95" column="0" />
-        <mark key="]" line="95" column="0" />
-        <mark key="^" line="31" column="18" />
-        <mark key="." line="95" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/playcart/app/services/extras/bigcommerce/BigcommerceHistoryImportJob.java" timestamp="1445851798074">
-        <mark key="[" line="71" column="56" />
-        <mark key="]" line="72" column="32" />
-        <mark key="^" line="72" column="32" />
-        <mark key="." line="72" column="32" />
-      </file>
-      <file name="$USER_HOME$/work/playcart/app/controllers/admin/merchant/OrderStatuses.java" timestamp="1446016438488">
-        <mark key="[" line="100" column="0" />
-        <mark key="]" line="100" column="100" />
-        <mark key="^" line="100" column="100" />
-        <mark key="." line="100" column="100" />
-      </file>
-      <file name="$USER_HOME$/work/playcart/app/services/smartly/client/models/FacebookStatusDeserializer.java" timestamp="1445421948772">
-        <mark key="[" line="25" column="19" />
-        <mark key="]" line="25" column="23" />
-        <mark key="^" line="25" column="23" />
-        <mark key="." line="25" column="23" />
-      </file>
-      <file name="$USER_HOME$/work/playcart/app/services/extras/platforms/PlatformHistoryImportJob.java" timestamp="1445851822628">
-        <mark key="[" line="50" column="70" />
-        <mark key="]" line="51" column="32" />
-        <mark key="^" line="51" column="32" />
-        <mark key="." line="51" column="32" />
-      </file>
       <file name="$USER_HOME$/bin/play-1.2.6.1/framework/lib/junit-4.10.jar!/org/junit/Assert.class" timestamp="1445939970231">
         <mark key="'" line="164" column="18" />
       </file>
       <file name="$USER_HOME$/work/playcart/test/services/smartly/client/SmartlyAPIClientTest.java" timestamp="1446191091128" />
-      <file name="$USER_HOME$/work/playcart/app/jobs/emailsending/SendEmailsJob.java" timestamp="1445851091508">
-        <mark key="[" line="45" column="97" />
-        <mark key="]" line="45" column="80" />
-        <mark key="^" line="45" column="80" />
-        <mark key="." line="45" column="80" />
-      </file>
-      <file name="$USER_HOME$/work/playcart/app/services/smartly/SmartlyAPIService.java" timestamp="1445252489271">
-        <mark key="[" line="140" column="0" />
-        <mark key="]" line="140" column="0" />
-        <mark key="^" line="140" column="107" />
-        <mark key="." line="140" column="0" />
-      </file>
+      <file name="$USER_HOME$/work/playcart/app/models/ads/facebook/SmartlyAccount.java" timestamp="1446193197357" />
       <file name="$USER_HOME$/work/playcart/app/cassandra/recpair/WeeklyRecPair.java" timestamp="1445939529586" />
       <file name="$USER_HOME$/work/playcart/app/services/product/ProductDAO.java" timestamp="1445268527597">
         <mark key="'" line="42" column="9" />
-      </file>
-      <file name="$USER_HOME$/work/playcart/app/models/api/messages/SmartlyCreateAccountRequestMessage.java" timestamp="1445438297994">
-        <mark key="[" line="14" column="40" />
-        <mark key="]" line="14" column="64" />
-        <mark key="^" line="14" column="64" />
-        <mark key="." line="14" column="64" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/controllers/extras/platforms/PlatformAuthController.java" timestamp="1445590931929">
         <mark key="'" line="71" column="32" />
@@ -205,12 +98,6 @@
       <file name="$USER_HOME$/work/playcart/test/utils/ProductVMTest.java" timestamp="1446023642448">
         <mark key="'" line="108" column="7" />
       </file>
-      <file name="$USER_HOME$/work/playcart/app/models/adnetwork/AdvertSlot.java" timestamp="1445599075682">
-        <mark key="[" line="115" column="11" />
-        <mark key="]" line="115" column="20" />
-        <mark key="." line="115" column="20" />
-        <mark key="^" line="115" column="20" />
-      </file>
       <file name="$USER_HOME$/work/playcart/app/models/admin/FeatureConfiguration.java" timestamp="1445932480436">
         <mark key="'" line="58" column="15" />
       </file>
@@ -221,30 +108,12 @@
         <mark key="'" line="66" column="25" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/views/contract/Contracts/edit.html" timestamp="1446022265030" />
-      <file name="$USER_HOME$/work/playcart/test/services/search/ElasticSearchExcludedFieldsTest.java" timestamp="1446022891771">
-        <mark key="[" line="24" column="20" />
-        <mark key="]" line="24" column="23" />
-        <mark key="." line="24" column="23" />
-        <mark key="^" line="24" column="23" />
-      </file>
-      <file name="$USER_HOME$/work/playcart/test/services/extras/shopify/ShopifyHistoryImportJobTest.java" timestamp="1445856736378">
-        <mark key="[" line="99" column="74" />
-        <mark key="]" line="99" column="37" />
-        <mark key="^" line="99" column="37" />
-        <mark key="." line="99" column="37" />
-      </file>
       <file name="$USER_HOME$/work/playcart/app/controllers/admin/merchant/SmartlyAdverts.java" timestamp="1446113466569">
         <mark key="'" line="347" column="22" />
         <mark key="[" line="94" column="0" />
         <mark key="]" line="94" column="0" />
         <mark key="^" line="826" column="29" />
         <mark key="." line="94" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/playcart/app/services/smartly/client/models/FacebookStatusSerializer.java" timestamp="1445421727747">
-        <mark key="[" line="15" column="25" />
-        <mark key="]" line="15" column="59" />
-        <mark key="^" line="15" column="59" />
-        <mark key="." line="15" column="59" />
       </file>
       <file name="$USER_HOME$/work/playcart/test/models/merchant/visit/CustomerSummaryTest.java" timestamp="1445962516544">
         <mark key="'" line="55" column="62" />
@@ -256,38 +125,8 @@
       <file name="$USER_HOME$/work/playcart/app/models/navigation/Menu.java" timestamp="1445618219019">
         <mark key="'" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/work/playcart/app/views/tags/ui/wizard/button.html" timestamp="1445264475705">
-        <mark key="[" line="39" column="57" />
-        <mark key="]" line="39" column="57" />
-        <mark key="^" line="39" column="31" />
-        <mark key="." line="39" column="57" />
-      </file>
-      <file name="$USER_HOME$/work/playcart/test/services/extras/bigcommerce/BigcommerceHistoryImportJobTest.java" timestamp="1445856670116">
-        <mark key="[" line="109" column="82" />
-        <mark key="]" line="109" column="41" />
-        <mark key="^" line="109" column="41" />
-        <mark key="." line="109" column="41" />
-      </file>
-      <file name="$USER_HOME$/work/playcart/app/services/smartly/exceptions/CloseAccountPostProcessFailedException.java" timestamp="1445243801723">
-        <mark key="[" line="6" column="18" />
-        <mark key="]" line="7" column="3" />
-        <mark key="^" line="7" column="3" />
-        <mark key="." line="7" column="3" />
-      </file>
       <file name="$USER_HOME$/work/playcart/app/models/admin/check/RequiredForSaleChannelCheck.java" timestamp="1445596883828">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/playcart/app/jobs/billing/CreateBillingEstimatesJob.java" timestamp="1445851110606">
-        <mark key="[" line="35" column="24" />
-        <mark key="]" line="35" column="22" />
-        <mark key="." line="35" column="22" />
-        <mark key="^" line="35" column="22" />
-      </file>
-      <file name="$USER_HOME$/work/playcart/app/controllers/extras/DefaultAppController.java" timestamp="1445848123329">
-        <mark key="[" line="86" column="12" />
-        <mark key="]" line="86" column="18" />
-        <mark key="." line="86" column="18" />
-        <mark key="^" line="86" column="18" />
       </file>
       <file name="$USER_HOME$/work/playcart/test/ClassInvariantsTest.java" timestamp="1445856474248">
         <mark key="'" line="147" column="13" />
@@ -309,30 +148,6 @@
       </file>
       <file name="$USER_HOME$/work/playcart/lib/aws-java-sdk-s3-1.10.28.jar!/com/amazonaws/services/s3/AmazonS3Client.class" timestamp="1445944421983">
         <mark key="'" line="254" column="13" />
-      </file>
-      <file name="$USER_HOME$/work/playcart/app/views/admin/merchant/SmartlyAdverts/connect.html" timestamp="1445267370588">
-        <mark key="[" line="38" column="227" />
-        <mark key="]" line="38" column="212" />
-        <mark key="." line="38" column="212" />
-        <mark key="^" line="38" column="212" />
-      </file>
-      <file name="$USER_HOME$/work/playcart/app/jobs/statscreation/RecreateStatsTask.java" timestamp="1445851365399">
-        <mark key="[" line="24" column="46" />
-        <mark key="]" line="24" column="47" />
-        <mark key="^" line="24" column="47" />
-        <mark key="." line="24" column="47" />
-      </file>
-      <file name="$USER_HOME$/work/playcart/app/jobs/statscreation/CreateStatsJob.java" timestamp="1445851768415">
-        <mark key="[" line="27" column="43" />
-        <mark key="]" line="26" column="55" />
-        <mark key="^" line="26" column="55" />
-        <mark key="." line="26" column="55" />
-      </file>
-      <file name="$USER_HOME$/work/playcart/app/services/extras/bigcommerce/BigcommerceProductsSyncJob.java" timestamp="1445852246141">
-        <mark key="[" line="39" column="55" />
-        <mark key="]" line="40" column="32" />
-        <mark key="^" line="40" column="32" />
-        <mark key="." line="40" column="32" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/services/EmailVerificationService.java" timestamp="1446032168584" />
       <file name="$USER_HOME$/work/playcart/app/utils/MoneyFormatter.java" timestamp="1446023443141">
@@ -362,24 +177,6 @@
       </file>
       <file name="$USER_HOME$/work/playcart/test/bug/Bug42NPEinStringVM.java" timestamp="1445599356734">
         <mark key="'" line="49" column="4" />
-      </file>
-      <file name="$USER_HOME$/work/playcart/app/jobs/BaseTask.java" timestamp="1445850247482">
-        <mark key="[" line="44" column="37" />
-        <mark key="]" line="46" column="33" />
-        <mark key="^" line="46" column="33" />
-        <mark key="." line="46" column="33" />
-      </file>
-      <file name="$USER_HOME$/work/playcart/app/jobs/recscreation/CreateRecsJob.java" timestamp="1445851332140">
-        <mark key="[" line="29" column="42" />
-        <mark key="]" line="23" column="40" />
-        <mark key="^" line="23" column="40" />
-        <mark key="." line="23" column="40" />
-      </file>
-      <file name="$USER_HOME$/work/playcart/app/jobs/recpairssummarizer/CreateRecSummariesJob.java" timestamp="1445851134265">
-        <mark key="[" line="32" column="50" />
-        <mark key="]" line="31" column="62" />
-        <mark key="^" line="31" column="62" />
-        <mark key="." line="31" column="62" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/models/merchant/product/Variant.java" timestamp="1445871783641">
         <mark key="'" line="83" column="19" />
