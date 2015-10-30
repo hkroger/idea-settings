@@ -156,11 +156,12 @@
         <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/views/admin/merchant/FromEmailAddresses/show.html" timestamp="1446032043953" />
-      <file name="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyService.java" timestamp="1446216267284">
-        <mark key="[" line="305" column="0" />
-        <mark key="]" line="305" column="0" />
-        <mark key="." line="305" column="0" />
-        <mark key="^" line="304" column="97" />
+      <file name="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyService.java" timestamp="1446219015667">
+        <mark key="'" line="96" column="18" />
+        <mark key="[" line="108" column="72" />
+        <mark key="]" line="108" column="72" />
+        <mark key="." line="108" column="72" />
+        <mark key="^" line="108" column="55" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/utils/VelocityHelper.java" timestamp="1445597112907">
         <mark key="'" line="51" column="8" />
@@ -300,10 +301,6 @@
       </file>
       <file name="$USER_HOME$/work/playcart/app/models/ads/facebook/SmartlyAccount.java" timestamp="1446217274314">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="15" />
-        <mark key="." line="49" column="0" />
-        <mark key="^" line="46" column="18" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/cassandra/recpair/WeeklyRecPair.java" timestamp="1445939529586" />
       <file name="$USER_HOME$/work/playcart/app/services/platforms/SelfHostedPlatformService.java" timestamp="1446016521749">
@@ -350,12 +347,6 @@
       <file name="$USER_HOME$/work/playcart/app/services/api/TokenService.java" timestamp="1445597049476">
         <mark key="'" line="66" column="25" />
       </file>
-      <file name="$USER_HOME$/work/playcart/app/services/smartly/models/AggregateStats.java" timestamp="1446215788069">
-        <mark key="[" line="70" column="24" />
-        <mark key="]" line="70" column="40" />
-        <mark key="." line="70" column="40" />
-        <mark key="^" line="70" column="40" />
-      </file>
       <file name="$USER_HOME$/work/playcart/app/views/contract/Contracts/edit.html" timestamp="1446022265030" />
       <file name="$USER_HOME$/work/playcart/test/services/search/ElasticSearchExcludedFieldsTest.java" timestamp="1446022891771">
         <mark key="[" line="24" column="20" />
@@ -368,13 +359,6 @@
         <mark key="]" line="99" column="37" />
         <mark key="^" line="99" column="37" />
         <mark key="." line="99" column="37" />
-      </file>
-      <file name="$USER_HOME$/work/playcart/app/controllers/admin/merchant/SmartlyAdverts.java" timestamp="1446215733560">
-        <mark key="'" line="347" column="22" />
-        <mark key="[" line="329" column="52" />
-        <mark key="]" line="329" column="89" />
-        <mark key="^" line="329" column="89" />
-        <mark key="." line="329" column="89" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/services/platforms/BigcommercePlatformService.java" timestamp="1446016502866">
         <mark key="[" line="109" column="0" />
@@ -420,9 +404,9 @@
         <mark key="." line="109" column="41" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/views/admin/merchant/SmartlyAccounts/manage.html" timestamp="1446217474434">
-        <mark key="[" line="64" column="0" />
-        <mark key="]" line="64" column="0" />
-        <mark key="." line="64" column="0" />
+        <mark key="[" line="67" column="0" />
+        <mark key="]" line="67" column="0" />
+        <mark key="." line="67" column="0" />
         <mark key="^" line="62" column="72" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/controllers/cron/CreateStatsControllerDeprecated.java" timestamp="1445858154647">
@@ -444,12 +428,6 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
-      <file name="$USER_HOME$/work/playcart/conf/messages" timestamp="1446217261964">
-        <mark key="[" line="937" column="30" />
-        <mark key="]" line="936" column="42" />
-        <mark key="." line="936" column="42" />
-        <mark key="^" line="936" column="42" />
-      </file>
       <file name="$USER_HOME$/work/playcart/app/jobs/billing/CreateBillingEstimatesJob.java" timestamp="1445851110606">
         <mark key="[" line="35" column="24" />
         <mark key="]" line="35" column="22" />
@@ -457,10 +435,10 @@
         <mark key="^" line="35" column="22" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/controllers/admin/merchant/SmartlyAccounts.java" timestamp="1446215881210">
-        <mark key="[" line="100" column="71" />
-        <mark key="]" line="100" column="103" />
-        <mark key="." line="100" column="103" />
-        <mark key="^" line="100" column="103" />
+        <mark key="[" line="88" column="71" />
+        <mark key="]" line="88" column="103" />
+        <mark key="." line="88" column="103" />
+        <mark key="^" line="88" column="103" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/controllers/extras/DefaultAppController.java" timestamp="1445848123329">
         <mark key="[" line="86" column="12" />
@@ -613,12 +591,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="161" column="33" filename="$USER_HOME$/work/playcart/app/cassandra/recpair/ReducedRecPair.java" />
-      <jump line="248" column="45" filename="$USER_HOME$/work/playcart/app/cassandra/recpair/ReducedRecPair.java" />
-      <jump line="87" column="32" filename="$USER_HOME$/work/playcart/app/cassandra/recpair/ReducedRecPair.java" />
-      <jump line="129" column="32" filename="$USER_HOME$/work/playcart/test/cassandra/recpair/CassandraRecPairInterfaceTest.java" />
-      <jump line="143" column="32" filename="$USER_HOME$/work/playcart/test/cassandra/recpair/CassandraRecPairInterfaceTest.java" />
-      <jump line="157" column="32" filename="$USER_HOME$/work/playcart/test/cassandra/recpair/CassandraRecPairInterfaceTest.java" />
       <jump line="196" column="40" filename="$USER_HOME$/work/playcart/test/cassandra/recpair/CassandraRecPairInterfaceTest.java" />
       <jump line="230" column="23" filename="$USER_HOME$/work/playcart/test/cassandra/recpair/CassandraRecPairInterfaceTest.java" />
       <jump line="182" column="24" filename="$USER_HOME$/work/playcart/test/cassandra/recpair/CassandraRecPairInterfaceTest.java" />
@@ -713,55 +685,61 @@
       <jump line="0" column="0" filename="$USER_HOME$/work/playcart/app/models/ads/facebook/SmartlyAccount.java" />
       <jump line="511" column="23" filename="$USER_HOME$/work/playcart/conf/application.conf" />
       <jump line="252" column="71" filename="$USER_HOME$/work/playcart/app/views/admin/merchant/SmartlyAdverts/blank.html" />
+      <jump line="139" column="12" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyService.java" />
+      <jump line="112" column="20" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyService.java" />
+      <jump line="144" column="4" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyService.java" />
+      <jump line="113" column="20" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyService.java" />
+      <jump line="94" column="16" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyService.java" />
+      <jump line="96" column="18" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyService.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJzbWFsbC0xMiBsYXJnZS02IGNvbHVtbiI+CiAgICAgICAgICAgICAgICAje25vc3RvLnYyLnN3aXRjaEZpZWxkIGxhYmVsOidhZG1pbi5tZXJjaGFudHMuc21hcnRseS5hY2NvdW50Q2xvc2VkJywgaWQ6J29iamVjdC5hY2NvdW50Q2xvc2VkJyAvfQogICAgICAgICAgICAgIDwvZGl2PiAgCiAgICAgICAgICAgICAgPGRpdiBjbGFzcz0ic21hbGwtMTIgbGFyZ2UtNiBjb2x1bW4iPgogICAgICAgICAgICAgICAgI3tub3N0by52Mi5zd2l0Y2hGaWVsZCBsYWJlbDonYWRtaW4ubWVyY2hhbnRzLnNtYXJ0bHkuZmFjZWJvb2tUb2tlbkV4cGlyZWQnLCBpZDonb2JqZWN0LmZhY2Vib29rVG9rZW5FeHBpcmVkJyAvfQogICAgICAgICAgICAgIDwvZGl2PiAgCg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>,</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwb3B1cENhbXBhaWduc1w+</text>
+        <text encoding="base64">XDxzZXRDYW1wYWlnblN0YXR1c1w+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YWRtaW4ubWVyY2hhbnRzLnNtYXJ0bHkuc3RhdHVzPVN0YXR1cwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2dnZXIuaW5mbygiW0ZCIENvc2lDbklybUJdIFBhdXNpbmcgY2FtcGFpZ24gaWQgJXMgZm9yIGFjY291bnQgJXMiLCBjYW1wYWlnbi5nZXRJZCgpLCBhY2NvdW50LmdldEFjY291bnRJZCgpKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJzbWFsbC0xMiBsYXJnZS02IGNvbHVtbiI+CiAgICAgICAgICAgICAgICAje25vc3RvLnYyLnN3aXRjaEZpZWxkIGxhYmVsOidhZG1pbi5tZXJjaGFudHMuc21hcnRseS5hY2NvdW50Q2xvc2VkJywgaWQ6J29iamVjdC5hY2NvdW50Q2xvc2VkJyAvfQogICAgICAgICAgICAgIDwvZGl2PiAgCiAgICAgICAgICAgICAgPGRpdiBjbGFzcz0ic21hbGwtMTIgbGFyZ2UtNiBjb2x1bW4iPgogICAgICAgICAgICAgICAgI3tub3N0by52Mi5zd2l0Y2hGaWVsZCBsYWJlbDonYWRtaW4ubWVyY2hhbnRzLnNtYXJ0bHkuZmFjZWJvb2tUb2tlbkV4cGlyZWQnLCBpZDonb2JqZWN0LmZhY2Vib29rVG9rZW5FeHBpcmVkJyAvfQogICAgICAgICAgICAgIDwvZGl2PiAgCg==</text>
+      <register name="1" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>,</text>
+        <text>campaign.getId(),</text>
       </register>
       <register name="3" type="4">
-        <text>g</text>
+        <text>f</text>
       </register>
       <register name="4" type="4">
-        <text>n</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="5" type="4">
-        <text>-</text>
+        <text>s</text>
       </register>
       <register name="6" type="4">
-        <text>, ignoreToolTip:true</text>
+        <text>%</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBDTE9TRUQsCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBDT05ORUNUSU5HCg==</text>
+      <register name="8" type="4">
+        <text>d</text>
       </register>
       <register name="9" type="4">
-        <text>Status</text>
+        <text>i</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwb3B1cENhbXBhaWduc1w+</last-search>
+      <last-search encoding="base64">XDxzZXRDYW1wYWlnblN0YXR1c1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwb3B1cENhbXBhaWduc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxzZXRDYW1wYWlnblN0YXR1c1w+</last-pattern>
       <last-replace>p</last-replace>
       <last-substitute>span</last-substitute>
       <last-dir>1</last-dir>
@@ -769,10 +747,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkYXRlRm9ybWF0dGVyXD4=</entry>
-        <entry encoding="base64">XDxEQVRFX0ZPUk1BVFRFUlw+</entry>
-        <entry encoding="base64">XDxtYXBwZXJcPg==</entry>
-        <entry encoding="base64">XDxtb25leUZvcm1hdHRlclw+</entry>
         <entry encoding="base64">XDxmb3JtYXRcPg==</entry>
         <entry encoding="base64">XDxkZWxheU1pbnV0ZXNBZnRlckxhc3RFdmVudFw+</entry>
         <entry encoding="base64">XDxvd25lZEJ5XD4=</entry>
@@ -789,6 +763,10 @@
         <entry encoding="base64">XDxpc0FjY291bnRDbG9zZWRcPg==</entry>
         <entry>smartly</entry>
         <entry encoding="base64">XDxwb3B1cENhbXBhaWduc1w+</entry>
+        <entry encoding="base64">XDxwYXVzZUNhbXBhaWduc1w+</entry>
+        <entry>setAccount</entry>
+        <entry>setCampaign</entry>
+        <entry encoding="base64">XDxzZXRDYW1wYWlnblN0YXR1c1w+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvLFxyL2c=</entry>
