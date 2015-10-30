@@ -17,13 +17,6 @@
       <file name="$USER_HOME$/work/playcart/conf/routes" timestamp="1446033479928">
         <mark key="'" line="206" column="14" />
       </file>
-      <file name="$USER_HOME$/work/playcart/test/controllers/cron/DeleteProductsNonPerformanceTests.java" timestamp="1446199552147">
-        <mark key="'" line="366" column="26" />
-        <mark key="[" line="56" column="0" />
-        <mark key="]" line="56" column="2" />
-        <mark key="." line="56" column="0" />
-        <mark key="^" line="68" column="7" />
-      </file>
       <file name="$USER_HOME$/work/playcart/app/services/smartly/client/models/Campaign.java" timestamp="1445953582062">
         <mark key="'" line="1358" column="5" />
       </file>
@@ -41,13 +34,6 @@
       </file>
       <file name="$USER_HOME$/work/playcart/app/controllers/extras/shopify/ShopifyOAuthController.java" timestamp="1445596647446">
         <mark key="'" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/work/playcart/test/services/billing/BillingStatisticsServiceTest.java" timestamp="1445951737184">
-        <mark key="'" line="105" column="35" />
-        <mark key="[" line="114" column="50" />
-        <mark key="]" line="115" column="47" />
-        <mark key="^" line="115" column="47" />
-        <mark key="." line="115" column="47" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/controllers/extras/shopify/ShopifyWebhookController.java" timestamp="1445596656190">
         <mark key="'" line="0" column="0" />
@@ -168,13 +154,6 @@
       </file>
       <file name="$USER_HOME$/work/playcart/app/models/admin/VerifiedEmail.java" timestamp="1446032238551">
         <mark key="'" line="264" column="21" />
-      </file>
-      <file name="$USER_HOME$/work/playcart/test/EmailSendingTest.java" timestamp="1446029305323">
-        <mark key="'" line="820" column="41" />
-        <mark key="[" line="247" column="84" />
-        <mark key="]" line="247" column="59" />
-        <mark key="^" line="247" column="67" />
-        <mark key="." line="247" column="59" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/models/merchant/product/rec/RecPair.java" timestamp="1445939412880">
         <mark key="'" line="31" column="13" />
