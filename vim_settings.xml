@@ -17,12 +17,12 @@
       <file name="$USER_HOME$/work/playcart/conf/routes" timestamp="1446033479928">
         <mark key="'" line="206" column="14" />
       </file>
-      <file name="$USER_HOME$/work/playcart/test/controllers/cron/DeleteProductsNonPerformanceTests.java" timestamp="1446198006290">
-        <mark key="'" line="48" column="13" />
-        <mark key="[" line="293" column="8" />
-        <mark key="]" line="293" column="50" />
-        <mark key="." line="293" column="50" />
-        <mark key="^" line="293" column="50" />
+      <file name="$USER_HOME$/work/playcart/test/controllers/cron/DeleteProductsNonPerformanceTests.java" timestamp="1446199552147">
+        <mark key="'" line="366" column="26" />
+        <mark key="[" line="56" column="0" />
+        <mark key="]" line="56" column="2" />
+        <mark key="." line="56" column="0" />
+        <mark key="^" line="68" column="7" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/services/smartly/client/models/Campaign.java" timestamp="1445953582062">
         <mark key="'" line="1358" column="5" />
@@ -86,7 +86,12 @@
       <file name="$USER_HOME$/work/playcart/app/jobs/productcrawler/DeleteOldProductsJob.java" timestamp="1446196770220">
         <mark key="'" line="293" column="51" />
       </file>
-      <file name="$USER_HOME$/work/playcart/app/jobs/productcrawler/tasking/DeleteProductTask.java" timestamp="1446195002573" />
+      <file name="$USER_HOME$/work/playcart/app/jobs/productcrawler/tasking/DeleteProductTask.java" timestamp="1446199329304">
+        <mark key="[" line="91" column="46" />
+        <mark key="]" line="91" column="46" />
+        <mark key="^" line="66" column="59" />
+        <mark key="." line="91" column="46" />
+      </file>
       <file name="$USER_HOME$/bin/play-1.2.6.1/framework/lib/junit-4.10.jar!/org/junit/Assert.class" timestamp="1445939970231">
         <mark key="'" line="164" column="18" />
       </file>
@@ -194,7 +199,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="249" column="15" filename="$USER_HOME$/work/playcart/app/cassandra/recpair/ReducedRecPairDAO.java" />
       <jump line="322" column="39" filename="$USER_HOME$/work/playcart/app/cassandra/recpair/ReducedRecPairDAO.java" />
       <jump line="193" column="42" filename="$USER_HOME$/work/playcart/test/cassandra/recpair/CassandraRecPairInterfaceTest.java" />
       <jump line="194" column="42" filename="$USER_HOME$/work/playcart/test/cassandra/recpair/CassandraRecPairInterfaceTest.java" />
@@ -294,13 +298,14 @@
       <jump line="77" column="4" filename="$USER_HOME$/work/playcart/app/jobs/productcrawler/DeleteOldProductsJob.java" />
       <jump line="290" column="15" filename="$USER_HOME$/work/playcart/app/jobs/productcrawler/DeleteOldProductsJob.java" />
       <jump line="293" column="51" filename="$USER_HOME$/work/playcart/app/jobs/productcrawler/DeleteOldProductsJob.java" />
+      <jump line="363" column="26" filename="$USER_HOME$/work/playcart/test/controllers/cron/DeleteProductsNonPerformanceTests.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWQK</text>
+        <text encoding="base64">LyoK</text>
       </register>
       <register name="-" type="4">
-        <text>get(RandomUtils.nextInt(productVariants.size()));</text>
+        <text>*</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxnZXRQcm9jZXNzZWRNZXJjaGFudENvdW50XD4=</text>
@@ -309,31 +314,31 @@
         <text encoding="base64">ICAgIC8qKgogICAgICogVGhpcyBpcyB0aGUgbWF4aW11bSByYW5rIGluIHRoZSByZS10YXJnZXRpbmcgZmVlZAogICAgICovCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIGludCBNQVhfUkFOS19JTl9SRVRBUkdFVElOR19GRUVEPSAxMDA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBUaHJlYWQK</text>
+        <text encoding="base64">LyoK</text>
       </register>
       <register name="2" type="4">
-        <text>get(RandomUtils.nextInt(productVariants.size()));</text>
+        <text>*</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">PA==</text>
+        <text>/</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">KCkg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>size</text>
+        <text>e</text>
       </register>
-      <register name="7" type="4">
-        <text>.</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBUaHJlYWQK</text>
       </register>
       <register name="8" type="4">
-        <text>productVariants</text>
+        <text>get(RandomUtils.nextInt(productVariants.size()));</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmICh0cmllcyA+IE1BWF9UUklFUykgewogICAgICAgICAgICAgICAgICAgIExvZ2dlci5lcnJvcigiW0ZCIENvc2lDbklybUJdIFRyeWluZyB0byBmaWxsIHJlbGF0ZWQgcHJvZHVjdHMgcmVhY2hlZCBNQVhfVFJJRVMuIFRoaXMgc2hvdWxkIG5vdCBoYXBwZW4uIik7CiAgICAgICAgICAgICAgICB9Cgo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
