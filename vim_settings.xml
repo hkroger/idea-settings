@@ -44,7 +44,7 @@
         <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/services/smartly/client/models/Campaign.java" timestamp="1445953582062">
-        <mark key="'" line="1358" column="5" />
+        <mark key="'" line="1324" column="5" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/cassandra/recpair/ReducedRecPair.java" timestamp="1445937444291">
         <mark key="'" line="87" column="32" />
@@ -158,10 +158,6 @@
       <file name="$USER_HOME$/work/playcart/app/views/admin/merchant/FromEmailAddresses/show.html" timestamp="1446032043953" />
       <file name="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyService.java" timestamp="1446219015667">
         <mark key="'" line="96" column="18" />
-        <mark key="[" line="108" column="72" />
-        <mark key="]" line="108" column="72" />
-        <mark key="." line="108" column="72" />
-        <mark key="^" line="108" column="55" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/utils/VelocityHelper.java" timestamp="1445597112907">
         <mark key="'" line="51" column="8" />
@@ -302,8 +298,12 @@
         <mark key="^" line="140" column="107" />
         <mark key="." line="140" column="0" />
       </file>
-      <file name="$USER_HOME$/work/playcart/app/models/ads/facebook/SmartlyAccount.java" timestamp="1446217274314">
+      <file name="$USER_HOME$/work/playcart/app/models/ads/facebook/SmartlyAccount.java" timestamp="1446452821250">
         <mark key="'" line="0" column="0" />
+        <mark key="[" line="226" column="15" />
+        <mark key="]" line="226" column="26" />
+        <mark key="." line="226" column="26" />
+        <mark key="^" line="226" column="26" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/cassandra/recpair/WeeklyRecPair.java" timestamp="1445939529586" />
       <file name="$USER_HOME$/work/playcart/app/services/platforms/SelfHostedPlatformService.java" timestamp="1446016521749">
@@ -363,6 +363,7 @@
         <mark key="^" line="99" column="37" />
         <mark key="." line="99" column="37" />
       </file>
+      <file name="$USER_HOME$/work/playcart/app/controllers/admin/merchant/SmartlyAdverts.java" timestamp="1446452749173" />
       <file name="$USER_HOME$/work/playcart/app/services/platforms/BigcommercePlatformService.java" timestamp="1446016502866">
         <mark key="[" line="109" column="0" />
         <mark key="]" line="109" column="100" />
@@ -406,11 +407,11 @@
         <mark key="^" line="109" column="41" />
         <mark key="." line="109" column="41" />
       </file>
-      <file name="$USER_HOME$/work/playcart/app/views/admin/merchant/SmartlyAccounts/manage.html" timestamp="1446217474434">
-        <mark key="[" line="67" column="0" />
-        <mark key="]" line="67" column="0" />
-        <mark key="." line="67" column="0" />
-        <mark key="^" line="62" column="72" />
+      <file name="$USER_HOME$/work/playcart/app/views/admin/merchant/SmartlyAccounts/manage.html" timestamp="1446453103337">
+        <mark key="[" line="62" column="33" />
+        <mark key="]" line="62" column="37" />
+        <mark key="." line="62" column="37" />
+        <mark key="^" line="62" column="37" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/controllers/cron/CreateStatsControllerDeprecated.java" timestamp="1445858154647">
         <mark key="[" line="86" column="0" />
@@ -431,6 +432,12 @@
         <mark key="]" line="56" column="0" />
         <mark key="." line="56" column="0" />
       </file>
+      <file name="$USER_HOME$/work/playcart/conf/messages" timestamp="1446453141849">
+        <mark key="[" line="935" column="45" />
+        <mark key="]" line="935" column="45" />
+        <mark key="^" line="936" column="62" />
+        <mark key="." line="935" column="45" />
+      </file>
       <file name="$USER_HOME$/work/playcart/app/jobs/billing/CreateBillingEstimatesJob.java" timestamp="1445851110606">
         <mark key="[" line="35" column="24" />
         <mark key="]" line="35" column="22" />
@@ -443,6 +450,7 @@
         <mark key="." line="88" column="103" />
         <mark key="^" line="88" column="103" />
       </file>
+      <file name="$USER_HOME$/work/playcart/app/views/tags/nosto/v2/selectField.html" timestamp="1446453090264" />
       <file name="$USER_HOME$/work/playcart/app/controllers/extras/DefaultAppController.java" timestamp="1445848123329">
         <mark key="[" line="86" column="12" />
         <mark key="]" line="86" column="18" />
@@ -553,12 +561,12 @@
         <mark key="]" line="84" column="0" />
         <mark key="." line="84" column="0" />
       </file>
-      <file name="$USER_HOME$/work/playcart/conf/application.conf" timestamp="1446216537733">
+      <file name="$USER_HOME$/work/playcart/conf/application.conf" timestamp="1446452407904">
         <mark key="'" line="511" column="23" />
         <mark key="[" line="828" column="29" />
-        <mark key="]" line="828" column="31" />
-        <mark key="." line="828" column="31" />
-        <mark key="^" line="828" column="31" />
+        <mark key="]" line="828" column="35" />
+        <mark key="." line="828" column="35" />
+        <mark key="^" line="828" column="35" />
       </file>
       <file name="$USER_HOME$/work/playcart/test/bug/Bug42NPEinStringVM.java" timestamp="1445599356734">
         <mark key="'" line="49" column="4" />
@@ -697,10 +705,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Status</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Status</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzZXRDYW1wYWlnblN0YXR1c1w+</text>
@@ -709,31 +717,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBMb2dnZXIuaW5mbygiW0ZCIENvc2lDbklybUJdIFBhdXNpbmcgY2FtcGFpZ24gaWQgJXMgZm9yIGFjY291bnQgJXMiLCBjYW1wYWlnbi5nZXRJZCgpLCBhY2NvdW50LmdldEFjY291bnRJZCgpKTsK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Status</text>
       </register>
       <register name="2" type="4">
-        <text>campaign.getId(),</text>
+        <text>Status</text>
       </register>
       <register name="3" type="4">
-        <text>f</text>
+        <text>Status</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>D</text>
       </register>
       <register name="5" type="4">
-        <text>s</text>
+        <text>E</text>
       </register>
       <register name="6" type="4">
-        <text>%</text>
+        <text encoding="base64">c3RhdHVzIA==</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>p</text>
       </register>
       <register name="8" type="4">
-        <text>d</text>
+        <text>p</text>
       </register>
       <register name="9" type="4">
-        <text>i</text>
+        <text>a</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
