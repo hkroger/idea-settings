@@ -3,11 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/work/playcart/app/views/admin/merchant/SmartlyAdverts/blank.html" timestamp="1446216875679">
-        <mark key="'" line="252" column="71" />
-        <mark key="[" line="252" column="0" />
-        <mark key="]" line="255" column="15" />
-      </file>
       <file name="$USER_HOME$/work/playcart/app/models/merchant/visit/StoredOrder.java" timestamp="1445846180155">
         <mark key="'" line="112" column="45" />
         <mark key="[" line="301" column="0" />
@@ -239,6 +234,12 @@
         <mark key="^" line="66" column="59" />
         <mark key="." line="91" column="46" />
       </file>
+      <file name="$USER_HOME$/work/playcart/app/services/smartly/client/models/ProductPrice.java" timestamp="1446477607533">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="6" />
+        <mark key="." line="6" column="6" />
+        <mark key="^" line="6" column="6" />
+      </file>
       <file name="$USER_HOME$/work/playcart/test/services/smartly/models/AggregateStatsTest.java" timestamp="1446223252954">
         <mark key="'" line="25" column="13" />
       </file>
@@ -284,7 +285,13 @@
       <file name="$USER_HOME$/bin/play-1.2.6.1/framework/lib/junit-4.10.jar!/org/junit/Assert.class" timestamp="1445939970231">
         <mark key="'" line="164" column="18" />
       </file>
-      <file name="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" timestamp="1446473981746" />
+      <file name="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" timestamp="1446477768522">
+        <mark key="'" line="405" column="78" />
+        <mark key="[" line="383" column="104" />
+        <mark key="]" line="383" column="113" />
+        <mark key="^" line="383" column="113" />
+        <mark key="." line="383" column="113" />
+      </file>
       <file name="$USER_HOME$/work/playcart/app/controllers/cron/CassandraRecPairsDeprecator.java" timestamp="1445857842264">
         <mark key="[" line="23" column="0" />
         <mark key="]" line="23" column="0" />
@@ -333,8 +340,12 @@
       <file name="$USER_HOME$/work/playcart/app/models/admin/FeatureConfiguration.java" timestamp="1445932480436">
         <mark key="'" line="58" column="15" />
       </file>
-      <file name="$USER_HOME$/work/playcart/app/services/smartly/client/models/Product.java" timestamp="1445871543114">
-        <mark key="'" line="48" column="18" />
+      <file name="$USER_HOME$/work/playcart/app/services/smartly/client/models/Product.java" timestamp="1446477848836">
+        <mark key="'" line="125" column="0" />
+        <mark key="[" line="38" column="42" />
+        <mark key="]" line="38" column="42" />
+        <mark key="^" line="81" column="45" />
+        <mark key="." line="38" column="42" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/services/api/TokenService.java" timestamp="1445597049476">
         <mark key="'" line="66" column="25" />
@@ -350,6 +361,12 @@
         <mark key="]" line="24" column="23" />
         <mark key="." line="24" column="23" />
         <mark key="^" line="24" column="23" />
+      </file>
+      <file name="$USER_HOME$/work/playcart/app/models/merchant/product/Product.java" timestamp="1446476187181">
+        <mark key="'" line="861" column="82" />
+        <mark key="[" line="281" column="57" />
+        <mark key="]" line="281" column="58" />
+        <mark key="." line="281" column="58" />
       </file>
       <file name="$USER_HOME$/work/playcart/test/services/extras/shopify/ShopifyHistoryImportJobTest.java" timestamp="1445856736378">
         <mark key="[" line="99" column="74" />
@@ -563,6 +580,12 @@
       <file name="$USER_HOME$/work/playcart/test/bug/Bug42NPEinStringVM.java" timestamp="1445599356734">
         <mark key="'" line="49" column="4" />
       </file>
+      <file name="$USER_HOME$/work/playcart/app/services/smartly/models/SingleProductAdvertisement.java" timestamp="1446477427396">
+        <mark key="[" line="23" column="31" />
+        <mark key="]" line="23" column="40" />
+        <mark key="^" line="23" column="40" />
+        <mark key="." line="23" column="40" />
+      </file>
       <file name="$USER_HOME$/work/playcart/app/jobs/BaseTask.java" timestamp="1445850247482">
         <mark key="[" line="44" column="37" />
         <mark key="]" line="46" column="33" />
@@ -581,7 +604,7 @@
         <mark key="^" line="31" column="62" />
         <mark key="." line="31" column="62" />
       </file>
-      <file name="$USER_HOME$/work/playcart/app/models/merchant/product/Variant.java" timestamp="1445871783641">
+      <file name="$USER_HOME$/work/playcart/app/models/merchant/product/Variant.java" timestamp="1446475583046">
         <mark key="'" line="83" column="19" />
       </file>
       <file name="$USER_HOME$/work/playcart/test/checkstyle.xml" timestamp="1445591734967">
@@ -594,13 +617,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="117" column="8" filename="$USER_HOME$/work/playcart/app/jobs/CouponsFileLoaderJob.java" />
-      <jump line="60" column="34" filename="$USER_HOME$/work/playcart/app/jobs/CouponsFileLoaderJob.java" />
-      <jump line="66" column="30" filename="$USER_HOME$/work/playcart/app/controllers/admin/merchant/EmailPlansCRUD.java" />
-      <jump line="41" column="13" filename="$USER_HOME$/work/playcart/test/services/billing/BillingStatisticsServiceTest.java" />
-      <jump line="47" column="14" filename="$USER_HOME$/work/playcart/test/services/billing/BillingStatisticsServiceTest.java" />
-      <jump line="71" column="8" filename="$USER_HOME$/work/playcart/test/services/billing/BillingStatisticsServiceTest.java" />
-      <jump line="149" column="8" filename="$USER_HOME$/work/playcart/test/services/billing/BillingStatisticsServiceTest.java" />
       <jump line="209" column="36" filename="$USER_HOME$/work/playcart/test/services/billing/BillingStatisticsServiceTest.java" />
       <jump line="64" column="19" filename="$USER_HOME$/work/playcart/test/services/billing/BillingStatisticsServiceTest.java" />
       <jump line="147" column="21" filename="$USER_HOME$/work/playcart/test/services/billing/BillingStatisticsServiceTest.java" />
@@ -694,55 +710,62 @@
       <jump line="36" column="20" filename="$USER_HOME$/work/playcart/mongojobs/updates/facebook/setSmartlyAccountStatus.js" />
       <jump line="2" column="6" filename="$USER_HOME$/work/playcart/mongojobs/updates/facebook/setSmartlyAccountStatus.js" />
       <jump line="12" column="8" filename="$USER_HOME$/work/playcart/mongojobs/updates/facebook/setSmartlyAccountStatus.js" />
+      <jump line="118" column="52" filename="$USER_HOME$/work/playcart/app/models/merchant/product/Product.java" />
+      <jump line="55" column="66" filename="$USER_HOME$/work/playcart/app/models/merchant/product/Product.java" />
+      <jump line="1006" column="15" filename="$USER_HOME$/work/playcart/app/models/merchant/product/Product.java" />
+      <jump line="855" column="82" filename="$USER_HOME$/work/playcart/app/models/merchant/product/Product.java" />
+      <jump line="13" column="20" filename="$USER_HOME$/work/playcart/app/services/smartly/client/models/Product.java" />
+      <jump line="129" column="0" filename="$USER_HOME$/work/playcart/app/services/smartly/client/models/Product.java" />
+      <jump line="405" column="78" filename="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWVyY2hhbnQgbSAK</text>
+      <register name="&quot;" type="4">
+        <text>s</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>s</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxza2lwc1w+</text>
+        <text encoding="base64">XDxGZWF0dXJlQ29uZmlndXJhdGlvblw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJpZDogIiArIGRvYy5faWQgKyAiIGFjY291bnRDbG9zZWQ6ICIgKyBkb2MuYWNjb3VudENsb3NlZCArICIgZmFjZWJvb2tUb2tlbkV4cGlyZWQ6ICIgKyBkb2MuZmFjZWJvb2tUb2tlbkV4cGlyZWQgKyAiIHN0YXR1czogIiAgKyBkb2Muc3RhdHVzKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBWYXJpYW50IGRlZmF1bHRWYXJpYW50ID0gcHJvZHVjdC5nZXRWYXJpYW50KHZhcmlhbnRJZCk7CiAgICAgICAgICAgICAgICAgICAgTGlzdDxWYXJpYW50PiB2YXJpYW50cyA9IHByb2R1Y3QuZ2V0Q29tcGxldGVWYXJpYW50cygpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgTWVyY2hhbnQgbSAK</text>
+      <register name="1" type="4">
+        <text>s</text>
       </register>
       <register name="2" type="4">
-        <text>t</text>
+        <text encoding="base64">dmFyaWFudCA=</text>
       </register>
-      <register name="3" type="4">
-        <text>merchant</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgVmFyaWFudCB2YXJpYW50ID0gbm9zdG9Qcm9kdWN0LmdldFZhcmlhbnQodmFyaWFudElkKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">aW1wb3J0IHV0aWxzLk1vbmV5Rm9ybWF0dGVyOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>n</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIC8qKgogICAgICogVGhpcyBpcyB0aGUgbWluaW11bSBhbW91bnQgb2YgZGlzY291bnQgYmVmb3JlIGl0IGlzIGxpc3RlZAogICAgICovCiAgICBwdWJsaWMgc3RhdGljIGZpbmFsIGludCBNSU5fRElTQ09VTlRfQU1PVU5UID0gMTA7Cgo=</text>
       </register>
-      <register name="6" type="4">
-        <text>t</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHRoaXMubGlzdFByaWNlID0gdmFyaWFudC5nZXRMaXN0UHJpY2UoKSArICIgIiArIHZhcmlhbnQuZ2V0UHJpY2VDdXJyZW5jeUNvZGUoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxza2lwc1w+</last-search>
+      <last-search encoding="base64">XDxGZWF0dXJlQ29uZmlndXJhdGlvblw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxza2lwc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxGZWF0dXJlQ29uZmlndXJhdGlvblw+</last-pattern>
       <last-replace>p</last-replace>
       <last-substitute>span</last-substitute>
       <last-dir>1</last-dir>
@@ -750,8 +773,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mandrill</entry>
-        <entry>EXISTING_CUSTOMER</entry>
         <entry>Math.min</entry>
         <entry encoding="base64">XDxNQVhfVFJJRVNcPg==</entry>
         <entry encoding="base64">XDxjcmVhdGVQcm9kdWNlclRhc2tzXD4=</entry>
@@ -770,6 +791,8 @@
         <entry encoding="base64">XDxhY2NvdW50Q2xvc2VkXD4=</entry>
         <entry encoding="base64">XDx1cGRhdGVzXD4=</entry>
         <entry encoding="base64">XDxza2lwc1w+</entry>
+        <entry encoding="base64">XDxiYXNlVmFyaWFudFw+</entry>
+        <entry encoding="base64">XDxGZWF0dXJlQ29uZmlndXJhdGlvblw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvLFxyL2c=</entry>
