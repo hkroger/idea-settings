@@ -158,8 +158,12 @@
         <mark key="." line="53" column="0" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/views/admin/merchant/FromEmailAddresses/show.html" timestamp="1446032043953" />
-      <file name="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyService.java" timestamp="1446219015667">
+      <file name="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyService.java" timestamp="1446458671552">
         <mark key="'" line="96" column="18" />
+        <mark key="[" line="296" column="97" />
+        <mark key="]" line="296" column="68" />
+        <mark key="." line="296" column="68" />
+        <mark key="^" line="296" column="68" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/utils/VelocityHelper.java" timestamp="1445597112907">
         <mark key="'" line="51" column="8" />
@@ -367,7 +371,11 @@
         <mark key="^" line="99" column="37" />
         <mark key="." line="99" column="37" />
       </file>
-      <file name="$USER_HOME$/work/playcart/app/controllers/admin/merchant/SmartlyAdverts.java" timestamp="1446452749173" />
+      <file name="$USER_HOME$/work/playcart/app/controllers/admin/merchant/SmartlyAdverts.java" timestamp="1446458753541">
+        <mark key="[" line="329" column="41" />
+        <mark key="]" line="329" column="41" />
+        <mark key="." line="329" column="41" />
+      </file>
       <file name="$USER_HOME$/work/playcart/app/services/platforms/BigcommercePlatformService.java" timestamp="1446016502866">
         <mark key="[" line="109" column="0" />
         <mark key="]" line="109" column="100" />
@@ -712,10 +720,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Wizard time status</text>
+        <text>DISCONNECTED</text>
       </register>
       <register name="-" type="4">
-        <text>Wizard time status</text>
+        <text>DISCONNECTED</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxhY2NvdW50Q2xvc2VkXD4=</text>
@@ -724,31 +732,31 @@
         <text encoding="base64">ICAgIC8vIFRPRE86IFJlbW92ZSB0aGlzIGxhdGVyLgo=</text>
       </register>
       <register name="1" type="4">
-        <text>Wizard time status</text>
+        <text>DISCONNECTED</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IGNsb3NlZCB0aGUgYWNjb3VudA==</text>
+        <text>.</text>
       </register>
       <register name="3" type="4">
-        <text>e</text>
+        <text>Status</text>
       </register>
       <register name="4" type="4">
-        <text>W</text>
+        <text>.</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAvLyBUT0RPOiBjaGFuZ2UgYnlNZXJjaGF0IAo=</text>
+      <register name="5" type="4">
+        <text>SmartlyAccount</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIC8vIFRPT0QK</text>
+      <register name="6" type="4">
+        <text encoding="base64">PT0g</text>
       </register>
       <register name="7" type="4">
-        <text>account.isAccountClosed()</text>
+        <text encoding="base64">KCkg</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGlzQWNjb3VudENsb3NlZCgpIHsKICAgICAgICByZXR1cm4gIWlzQWN0aXZlKCk7CiAgICB9Cgo=</text>
+      <register name="8" type="4">
+        <text>getStatus</text>
       </register>
       <register name="9" type="4">
-        <text>ccountClosed</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
