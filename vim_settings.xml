@@ -356,6 +356,12 @@
         <mark key="^" line="99" column="37" />
         <mark key="." line="99" column="37" />
       </file>
+      <file name="$USER_HOME$/work/playcart/app/controllers/admin/merchant/SmartlyAdverts.java" timestamp="1446471811995">
+        <mark key="[" line="192" column="61" />
+        <mark key="]" line="190" column="72" />
+        <mark key="." line="190" column="72" />
+        <mark key="^" line="190" column="72" />
+      </file>
       <file name="$USER_HOME$/work/playcart/app/services/platforms/BigcommercePlatformService.java" timestamp="1446016502866">
         <mark key="[" line="109" column="0" />
         <mark key="]" line="109" column="100" />
@@ -695,11 +701,11 @@
       <jump line="12" column="8" filename="$USER_HOME$/work/playcart/mongojobs/updates/facebook/setSmartlyAccountStatus.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>staging</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTWVyY2hhbnQgbSAK</text>
       </register>
       <register name="-" type="4">
-        <text>staging</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxza2lwc1w+</text>
@@ -707,32 +713,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaW50KCJpZDogIiArIGRvYy5faWQgKyAiIGFjY291bnRDbG9zZWQ6ICIgKyBkb2MuYWNjb3VudENsb3NlZCArICIgZmFjZWJvb2tUb2tlbkV4cGlyZWQ6ICIgKyBkb2MuZmFjZWJvb2tUb2tlbkV4cGlyZWQgKyAiIHN0YXR1czogIiAgKyBkb2Muc3RhdHVzKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>staging</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgTWVyY2hhbnQgbSAK</text>
       </register>
       <register name="2" type="4">
-        <text>'</text>
+        <text>t</text>
       </register>
       <register name="3" type="4">
-        <text>DISCONNECTED</text>
+        <text>merchant</text>
       </register>
-      <register name="4" type="4">
-        <text>'</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name="5" type="4">
-        <text>'</text>
+        <text>n</text>
       </register>
       <register name="6" type="4">
-        <text>facebookTokenExpired</text>
+        <text>t</text>
       </register>
-      <register name="7" type="4">
-        <text>!</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="8" type="4">
-        <text>)</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>(</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
