@@ -100,12 +100,12 @@
       <file name="$USER_HOME$/bin/play-1.2.6.1/framework/lib/junit-4.10.jar!/org/junit/Assert.class" timestamp="1445939970231">
         <mark key="'" line="164" column="18" />
       </file>
-      <file name="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" timestamp="1446562777051">
-        <mark key="'" line="354" column="31" />
-        <mark key="[" line="417" column="40" />
-        <mark key="]" line="418" column="28" />
-        <mark key="." line="418" column="28" />
-        <mark key="^" line="418" column="28" />
+      <file name="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" timestamp="1446622772946">
+        <mark key="'" line="72" column="29" />
+        <mark key="[" line="376" column="0" />
+        <mark key="]" line="376" column="0" />
+        <mark key="^" line="376" column="152" />
+        <mark key="." line="376" column="0" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/controllers/extras/platforms/PlatformAuthController.java" timestamp="1445590931929">
         <mark key="'" line="71" column="32" />
@@ -125,8 +125,12 @@
         <mark key="." line="21" column="15" />
         <mark key="^" line="20" column="41" />
       </file>
-      <file name="$USER_HOME$/work/playcart/app/models/admin/FeatureConfiguration.java" timestamp="1445932480436">
-        <mark key="'" line="58" column="15" />
+      <file name="$USER_HOME$/work/playcart/app/models/admin/FeatureConfiguration.java" timestamp="1446622325405">
+        <mark key="'" line="325" column="40" />
+        <mark key="[" line="228" column="18" />
+        <mark key="]" line="228" column="39" />
+        <mark key="^" line="228" column="39" />
+        <mark key="." line="228" column="39" />
       </file>
       <file name="$USER_HOME$/work/playcart/app/services/smartly/client/models/Product.java" timestamp="1446547180117">
         <mark key="[" line="14" column="0" />
@@ -154,6 +158,7 @@
         <mark key="[" line="51" column="0" />
         <mark key="]" line="51" column="35" />
       </file>
+      <file name="$USER_HOME$/work/playcart/app/controllers/admin/global/FeatureConfigurationController.java" timestamp="1446622463354" />
       <file name="$USER_HOME$/work/playcart/app/services/smartly/client/models/FacebookStatusSerializer.java" timestamp="1446543586702">
         <mark key="[" line="18" column="0" />
         <mark key="]" line="18" column="34" />
@@ -241,17 +246,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="218" column="60" filename="$USER_HOME$/work/playcart/app/models/ads/facebook/SmartlyAccount.java" />
-      <jump line="45" column="23" filename="$USER_HOME$/work/playcart/app/models/ads/facebook/SmartlyAccount.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/work/playcart/app/models/ads/facebook/SmartlyAccount.java" />
-      <jump line="511" column="23" filename="$USER_HOME$/work/playcart/conf/application.conf" />
-      <jump line="252" column="71" filename="$USER_HOME$/work/playcart/app/views/admin/merchant/SmartlyAdverts/blank.html" />
-      <jump line="139" column="12" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyService.java" />
-      <jump line="112" column="20" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyService.java" />
-      <jump line="144" column="4" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyService.java" />
-      <jump line="113" column="20" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyService.java" />
-      <jump line="94" column="16" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyService.java" />
-      <jump line="96" column="18" filename="$USER_HOME$/work/playcart/app/services/smartly/DefaultSmartlyService.java" />
       <jump line="25" column="13" filename="$USER_HOME$/work/playcart/test/services/smartly/models/AggregateStatsTest.java" />
       <jump line="194" column="23" filename="$USER_HOME$/work/playcart/app/models/ads/facebook/SmartlyAccount.java" />
       <jump line="75" column="20" filename="$USER_HOME$/work/playcart/app/models/ads/facebook/SmartlyAccount.java" />
@@ -341,55 +335,66 @@
       <jump line="404" column="15" filename="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" />
       <jump line="410" column="11" filename="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" />
       <jump line="354" column="31" filename="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" />
+      <jump line="411" column="32" filename="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" />
+      <jump line="72" column="29" filename="$USER_HOME$/work/playcart/app/controllers/api/SmartlyApi.java" />
+      <jump line="326" column="24" filename="$USER_HOME$/work/playcart/app/models/admin/FeatureConfiguration.java" />
+      <jump line="331" column="29" filename="$USER_HOME$/work/playcart/app/models/admin/FeatureConfiguration.java" />
+      <jump line="330" column="17" filename="$USER_HOME$/work/playcart/app/models/admin/FeatureConfiguration.java" />
+      <jump line="325" column="65" filename="$USER_HOME$/work/playcart/app/models/admin/FeatureConfiguration.java" />
+      <jump line="332" column="16" filename="$USER_HOME$/work/playcart/app/models/admin/FeatureConfiguration.java" />
+      <jump line="317" column="51" filename="$USER_HOME$/work/playcart/app/models/admin/FeatureConfiguration.java" />
+      <jump line="321" column="52" filename="$USER_HOME$/work/playcart/app/models/admin/FeatureConfiguration.java" />
+      <jump line="322" column="65" filename="$USER_HOME$/work/playcart/app/models/admin/FeatureConfiguration.java" />
+      <jump line="323" column="40" filename="$USER_HOME$/work/playcart/app/models/admin/FeatureConfiguration.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhZGRSYW5rc1w+</text>
+        <text encoding="base64">XDxmYWNlYm9va0ZlZUJhc2VkT25TcGVudFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIGJ5dGVbXSBieXRlcyA9IG91dC50b0J5dGVBcnJheSgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVzcG9uc2Uud3JpdGVDaHVuayhieXRlcyk7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBvdXQucmVzZXQoKTsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBpZiAodmFyaWFudHNFbmFibGVkKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIExpc3Q8VmFyaWFudD4gdmFyaWFudHMgPSBwcm9kdWN0LmdldENvbXBsZXRlVmFyaWFudHMoKTsK</text>
       </register>
       <register name="1" type="4">
-        <text>0</text>
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlc3BvbnNlLm91dC5mbHVzaCgpOwo=</text>
+      <register name="2" type="4">
+        <text>Variant</text>
       </register>
       <register name="3" type="4">
         <text>.</text>
       </register>
       <register name="4" type="4">
-        <text>response</text>
+        <text>product</text>
       </register>
       <register name="5" type="4">
-        <text>/</text>
+        <text>.</text>
       </register>
       <register name="6" type="4">
-        <text>/</text>
+        <text>merchant</text>
       </register>
       <register name="7" type="4">
-        <text>eIfNotSet();</text>
+        <text>.</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">bmV3IEhhc2hNYXA8U3RyaW5nLCBJbnRlZ2VyPigpOw==</text>
+        <text>models</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8K</text>
+      <register name="9" type="4">
+        <text encoding="base64">bmV3IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhZGRSYW5rc1w+</last-search>
+      <last-search encoding="base64">XDxmYWNlYm9va0ZlZUJhc2VkT25TcGVudFw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhZGRSYW5rc1w+</last-pattern>
+      <last-pattern encoding="base64">XDxmYWNlYm9va0ZlZUJhc2VkT25TcGVudFw+</last-pattern>
       <last-replace>p</last-replace>
       <last-substitute>span</last-substitute>
       <last-dir>1</last-dir>
@@ -397,11 +402,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxhY2NvdW50Q2xvc2VkXD4=</entry>
-        <entry encoding="base64">XDx1cGRhdGVzXD4=</entry>
-        <entry encoding="base64">XDxza2lwc1w+</entry>
-        <entry encoding="base64">XDxiYXNlVmFyaWFudFw+</entry>
-        <entry encoding="base64">XDxGZWF0dXJlQ29uZmlndXJhdGlvblw+</entry>
         <entry encoding="base64">XDxNQVhfUFJPRFVDVF9BTU9VTlRcPg==</entry>
         <entry encoding="base64">XDxoYW5kbGVJbnRlcm5hbFNlcnZlckVycm9yXD4=</entry>
         <entry encoding="base64">XDxleGNoYW5nZVJhdGVQcmljZUN1cnJlbmN5Q29kZVw+</entry>
@@ -417,6 +417,11 @@
         <entry encoding="base64">XDxtYXBwZXJcPg==</entry>
         <entry encoding="base64">XDxqc29uR2VuZXJhdG9yXD4=</entry>
         <entry encoding="base64">XDxhZGRSYW5rc1w+</entry>
+        <entry encoding="base64">XDxGTFVTSF9KU09OX0VWRVJZX05fUFJPRFVDVFNcPg==</entry>
+        <entry encoding="base64">XDxpc0VtcHR5XD4=</entry>
+        <entry encoding="base64">XDxzcGxpdFw+</entry>
+        <entry encoding="base64">XDxtZXJjaGFudE5hbWVcPg==</entry>
+        <entry encoding="base64">XDxmYWNlYm9va0ZlZUJhc2VkT25TcGVudFw+</entry>
       </history-search>
       <history-cmd>
         <entry encoding="base64">JzwsJz5zLywvLFxyL2c=</entry>
